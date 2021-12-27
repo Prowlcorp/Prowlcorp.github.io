@@ -29,29 +29,6 @@ var PokedexItemPanel = PokedexResultPanel.extend({
 		buf += '<h1><span class="itemicon" style="'+Dex.getItemIcon(item)+'"></span> <a href="/items/'+id+'" data-target="push" class="subtle">'+item.name+'</a></h1>';
 		buf += '<p>'+Dex.escapeHTML(item.desc||item.shortDesc)+'</p>';
 
-		// past gens
-		var pastGenChanges = false;
-		if (BattleTeambuilderTable) for (var genNum = 7; genNum >= 1; genNum--) {
-			var genTable = BattleTeambuilderTable['gen' + genNum];
-			var nextGenTable = BattleTeambuilderTable['gen' + (genNum + 1)];
-			var changes = '';
-
-			var nextGenDesc = (item.shortDesc || item.desc);
-			if (nextGenTable && nextGenTable.overrideItemDesc[id]) nextGenDesc = nextGenTable.overrideItemDesc[id];
-			var curGenDesc = genTable.overrideItemDesc[id] || nextGenDesc;
-			if (curGenDesc !== nextGenDesc) {
-				changes += curGenDesc + ' <i class="fa fa-long-arrow-right"></i> ' + nextGenDesc + '<br />';
-			}
-
-			if (changes) {
-				if (!pastGenChanges) buf += '<h3>Past gens</h3><dl>';
-				buf += '<dt>Gen ' + genNum + ' <i class="fa fa-arrow-right"></i> ' + (genNum + 1) + ':</dt>';
-				buf += '<dd>' + changes + '</dd>';
-				pastGenChanges = true;
-			}
-		}
-		if (pastGenChanges) buf += '</dl>';
-
 		buf += '</div>';
 
 		this.html(buf);
@@ -68,32 +45,7 @@ var PokedexAbilityPanel = PokedexResultPanel.extend({
 		buf += '<a href="/" class="pfx-backbutton" data-target="back"><i class="fa fa-chevron-left"></i> Pok&eacute;dex</a>';
 		buf += '<h1><a href="/abilities/'+id+'" data-target="push" class="subtle">'+ability.name+'</a></h1>';
 
-		if (ability.isNonstandard) buf += '<div class="warning"><strong>Note:</strong> This is a made-up ability by <a href="http://www.smogon.com/cap/" target="_blank">Smogon CAP</a>.</div>';
-
 		buf += '<p>'+Dex.escapeHTML(ability.desc)+'</p>';
-
-		// past gens
-		var pastGenChanges = false;
-		if (BattleTeambuilderTable) for (var genNum = 7; genNum >= 1; genNum--) {
-			var genTable = BattleTeambuilderTable['gen' + genNum];
-			var nextGenTable = BattleTeambuilderTable['gen' + (genNum + 1)];
-			var changes = '';
-
-			var nextGenDesc = (ability.shortDesc || ability.desc);
-			if (nextGenTable && nextGenTable.overrideAbilityDesc[id]) nextGenDesc = nextGenTable.overrideAbilityDesc[id];
-			var curGenDesc = genTable.overrideAbilityDesc[id] || nextGenDesc;
-			if (curGenDesc !== nextGenDesc) {
-				changes += curGenDesc + ' <i class="fa fa-long-arrow-right"></i> ' + nextGenDesc + '<br />';
-			}
-
-			if (changes) {
-				if (!pastGenChanges) buf += '<h3>Past gens</h3><dl>';
-				buf += '<dt>Gen ' + genNum + ' <i class="fa fa-arrow-right"></i> ' + (genNum + 1) + ':</dt>';
-				buf += '<dd>' + changes + '</dd>';
-				pastGenChanges = true;
-			}
-		}
-		if (pastGenChanges) buf += '</dl>';
 
 		// pokemon
 		buf += '<h3>Pok&eacute;mon with this ability</h3>';
@@ -111,7 +63,6 @@ var PokedexAbilityPanel = PokedexResultPanel.extend({
 		var buf = '';
 		for (var pokemonid in BattlePokedex) {
 			var template = BattlePokedex[pokemonid];
-			if (template.isNonstandard && !ability.isNonstandard) continue;
 			if (template.abilities['0'] === ability.name || template.abilities['1'] === ability.name || template.abilities['H'] === ability.name) {
 				buf += BattleSearch.renderPokemonRow(template);
 			}
@@ -354,16 +305,6 @@ var PokedexTagPanel = PokedexResultPanel.extend({
 			tag: '',
 			desc: 'Is a <a class="subtle" href="/articles/zmoves" data-target="push">Z-Move</a>.'
 		},
-		maxmove: {
-			name: 'Max Move',
-			tag: '',
-			desc: 'Is a <a class="subtle" href="/articles/maxmoves" data-target="push">Max Move</a>.'
-		},
-		gmaxmove: {
-			name: 'G-Max Move',
-			tag: '',
-			desc: 'Is a <a class="subtle" href="/articles/gmaxmoves" data-target="push">G-Max Move</a>.'
-		}
 	},
 	initialize: function(id) {
 		var tag = this.table[id];
@@ -644,7 +585,6 @@ var PokedexEggGroupPanel = PokedexResultPanel.extend({
 			var eggGroups = BattlePokedex[pokemonid].eggGroups;
 			var prevo = toID(BattlePokedex[pokemonid].prevo);
 			if (!eggGroups || BattlePokedex[pokemonid].forme || (prevo && BattlePokedex[prevo].eggGroups[0] !== "Undiscovered")) continue;
-			if (BattlePokedex[pokemonid] && BattlePokedex[pokemonid].isNonstandard) continue;
 			if (eggGroups[0] === name || eggGroups[1] === name ||
 				eggGroups[0] === name2 || eggGroups[1] === name2) {
 				results.push(pokemonid);
@@ -787,25 +727,8 @@ var PokedexCategoryPanel = PokedexResultPanel.extend({
 var PokedexTierPanel = PokedexResultPanel.extend({
 	initialize: function(id) {
 		var tierTable = {
-			uber: "Uber",
-			ou: "OU",
-			uu: "UU",
-			ru: "RU",
-			nu: "NU",
-			pu: "PU",
-			nfe: "NFE",
-			lcuber: "LC Uber",
-			lc: "LC",
-			cap: "CAP",
-			uubl: "UUBL",
-			rubl: "RUBL",
-			nubl: "NUBL",
-			publ: "PUBL",
+			filler: "Filler",
 			illegal: "Illegal",
-			bank: "Bank",
-			bankuber: "Bank-Uber",
-			banklc: "Bank-LC",
-			banknfe: "Bank-NFE",
 		};
 		var name = tierTable[id] || id;
 		this.id = id;
@@ -815,11 +738,9 @@ var PokedexTierPanel = PokedexResultPanel.extend({
 		buf += '<a href="/" class="pfx-backbutton" data-target="back"><i class="fa fa-chevron-left"></i> Pok&eacute;dex</a>';
 		buf += '<h1><a href="/tiers/'+id+'" data-target="push" class="subtle">'+name+'</a></h1>';
 
-		if (id === 'nfe' || id === 'banknfe') {
+		if (id === 'nfe') {
 			buf += '<p>"NFE" (Not Fully Evolved) as a tier refers to NFE Pokémon that aren\'t legal in LC and don\'t make the usage cutoff for a tier such as PU.</p>';
 		}
-
-		if (id.startsWith('cap')) buf += '<div class="warning"><strong>Note:</strong> <a href="http://www.smogon.com/cap/" target="_blank">Smogon CAP</a> is a project to make up Pok&eacute;mon.</div>';
 
 		// buf += '<p></p>';
 
