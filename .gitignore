@@ -1,0 +1,6 @@
+/index.php
+/.idea
+/.articles-cached
+/config/config.js
+node_modules
+.DS_Store
