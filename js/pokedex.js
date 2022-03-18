@@ -6,6 +6,11 @@ Dex.escapeHTML = function (str, jsEscapeToo) {
 	return str;
 };
 
+Dex.getOverrideAbilityDesc = function (id, table) {
+	if (!table.overrideAbilityData[id] || !table.overrideAbilityData[id].desc) return null;
+	return table.overrideAbilityData[id].desc;
+}
+
 var Topbar = Panels.Topbar.extend({
 	height: 51
 });
