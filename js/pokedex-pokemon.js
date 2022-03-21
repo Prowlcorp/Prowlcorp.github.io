@@ -283,6 +283,7 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
 		case 'details':
 			this.renderDetails();
 			break;
+		}
 	},
 	renderFullLearnset: function() {
 		var pokemon = Dex.species.get(this.id);
