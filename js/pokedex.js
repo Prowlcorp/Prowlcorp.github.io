@@ -253,7 +253,7 @@ var PokedexTagPanel = PokedexResultPanel.extend({
 		sound: {
 			name: 'Sound',
 			tag: 'sound',
-			desc: 'Bypasses <a href="/moves/substitute" data-target="push">Substitute</a>. Doesn\'t affect <a href="/abilities/soundproof" data-target="push">Soundproof</a> Pok&eacute;mon.'
+			desc: 'Bypasses <a href="/moves/substitute" data-target="push">Substitute</a>. Doesn\'t affect <a href="/abilities/soundproof" data-target="push">Soundproof</a> Pok&eacute;mon. Boosted 1.3x by <a href="/abilities/punkrock" data-target="push">Punk Rock</a>.'
 		},
 		powder: {
 			name: 'Powder',
@@ -274,6 +274,16 @@ var PokedexTagPanel = PokedexResultPanel.extend({
 			name: 'Bite',
 			tag: 'bite',
 			desc: 'Boosted 1.5x by <a href="/abilities/strongjaw" data-target="push">Strong Jaw</a>.'
+		},
+		magic: {
+			name: 'Magic',
+			tag: 'magic',
+			desc: 'Move based in magic.'
+		},
+		sword: {
+			name: 'Sword',
+			tag: 'sword',
+			desc: 'Boosted 1.5x by <a href="/abilities/unbendingblade" data-target="push">Unbending Blade</a>.'
 		},
 		ballistic: {
 			name: 'Ballistic',

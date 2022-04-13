@@ -89,6 +89,12 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 		if ('bullet' in move.flags) {
 			buf += '<p class="movetag"><a href="/tags/ballistic" data-target="push">&#x2713; Ballistic</a> <small>(doesn\'t affect <a class="subtle" href="/abilities/bulletproof" data-target="push">Bulletproof</a> pokemon)</small></p>';
 		}
+		if ('magic' in move.flags) {
+			buf += '<p class="movetag"><a href="/tags/magic" data-target="push">&#x2713; Magic</a> <small>(Moves based in magic)</small></p>';
+		}
+		if ('sword' in move.flags) {
+			buf += '<p class="movetag"><a href="/tags/sword" data-target="push">&#x2713; Sword</a> <small>(boosted by <a class="subtle" href="/abilities/unbendingblade" data-target="push">Unbending Blade</a>)</small></p>';
+		}
 
 		if (move.target === 'allAdjacent') {
 			buf += '<p class="movetag"><small>In Doubles, hits all adjacent Pokémon (including allies)</small></p>';
@@ -141,7 +147,7 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 			stoneedge: "Splintered Stormshards",
 			clangingscales: "Clangorous Soulblaze",
 		};
-		if (!move.isMax && (move.zMovePower || move.zMoveEffect || move.zMoveBoost)) {
+		if (move.zMovePower || move.zMoveEffect || move.zMoveBoost) {
 			buf += '<h3>Z-Move(s)</h3>';
 			if (move.zMovePower) {
 				buf += '<p><strong><a href="/moves/' + toID(zMoveTable[move.type]) + '" data-target="push">';
@@ -371,7 +377,8 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 			var desc = '';
 			switch (results[i].charAt(0)) {
 			case 'a': // level-up move
-				desc = results[i].substr(1,3) === '001' ? '&ndash;' : '<small>L</small>'+(parseInt(results[i].substr(1,3), 10) || '?');
+				const level = Number(results[i].split(' ')[0].slice(1));
+				desc = level === 0 ? 'Evo' : level === 1 ? '&ndash;' : '<small>L</small>'+(level||'?');
 				break;
 			case 'b': // tm/hm
 				desc = '<img src="//' + Config.routes.client + '/sprites/itemicons/tm-normal.png" style="margin-top:-3px;opacity:.7" width="24" height="24" alt="M" />';
