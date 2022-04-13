@@ -1,10 +1,3 @@
-function sourcePad(source) {
-	var level = source.slice(2);
-	if (level.length < 3) level = '0' + level;
-	if (level.length < 3) level = '0' + level;
-	return level.length > 3 ? level : level+' ';
-}
-
 var PokedexMovePanel = PokedexResultPanel.extend({
 	initialize: function(id) {
 		id = toID(id);
@@ -381,10 +374,11 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 				desc = level === 0 ? 'Evo' : level === 1 ? '&ndash;' : '<small>L</small>'+(level||'?');
 				break;
 			case 'b': // tm/hm
-				desc = '<img src="//' + Config.routes.client + '/sprites/itemicons/tm-normal.png" style="margin-top:-3px;opacity:.7" width="24" height="24" alt="M" />';
+				const moveType = toID(BattleMovedex[this.id].type);
+				desc = '<span class="itemicon" style="margin-top:-3px;background:transparent url('+Dex.resourcePrefix+'sprites/itemicons/tm-'+moveType+'.png) no-repeat"></span>';
 				break;
 			case 'c': // tutor
-				desc = '<img src="//' + Config.routes.client + '/sprites/tutor.png" style="margin-top:-4px;opacity:.7" width="27" height="26" alt="T" />';
+				desc = '<img src="' + Dex.resourcePrefix + 'sprites/tutor.png" style="margin-top:-4px;opacity:.7" width="27" height="26" alt="T" />';
 				break;
 			case 'd': // egg move
 				desc = '<span class="picon" style="margin-top:-12px;'+Dex.getPokemonIcon('egg')+'"></span>';
