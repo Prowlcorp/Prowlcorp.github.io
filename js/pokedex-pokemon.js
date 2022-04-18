@@ -41,7 +41,7 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
 		buf += ''+pokemon.heightm+' m, '+pokemon.weightkg+' kg<br /><small><a class="subtle" href="/moves/grassknot" data-target="push">Grass Knot</a>: '+gkPower+'</small>';
 		buf += '<dl class="calcentry">';
 		buf += '<dt>Calc Info:</dt> <dd>';
-		buf += 'Catch Rate: '+pokemon.catchRate+', Growth Rate: '+pokemon.growRate+', Exp Yield: '+pokemon.expYield;
+		buf += 'CR: '+pokemon.catchRate+', GR: '+pokemon.growRate+', Yield: '+pokemon.expYield;
 		buf += '</dd>';
 		buf += '</dl>';
 
