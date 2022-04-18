@@ -426,42 +426,41 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
 				var desc = '';
 				let level;
 				switch (last) {
-				case 'a': // level-up move
-					if (lastChanged) buf += '<li class="resultheader"><h3>Level-up</h3></li>';
-					level = parseInt(moves[i].substr(1,3));
-					desc = level === 0 ? 'Evo' : level === 1 ? '&ndash;' : '<small>L</small>'+(level||'?');
-					break;
-				case 'b': // prevo1 level-up move
-					if (lastChanged) buf += '<li class="resultheader"><h3>Level-up from '+BattlePokedex[prevo1].name+'</h3></li>';
-					level = parseInt(moves[i].substr(1,3));
-					desc = level === 0 ? 'Evo' : level === 1 ? '&ndash;' : '<small>L</small>'+(level||'?');
-					break;
-				case 'c': // prevo2 level-up move
-					if (lastChanged) buf += '<li class="resultheader"><h3>Level-up from '+BattlePokedex[prevo2].name+'</h3></li>';
-					level = parseInt(moves[i].substr(1,3));
-					desc = level === 0 ? 'Evo' : level === 1 ? '&ndash;' : '<small>L</small>'+(level||'?');
-					break;
-				case 'd': // tm/hm
-					if (lastChanged) buf += '<li class="resultheader"><h3>TM/HM</h3></li>';
-					const moveType = toID(BattleMovedex[moves[i].split(' ')[1]].type);
-					desc = '<span class="itemicon" style="margin-top:-3px;background:transparent url('+Dex.resourcePrefix+'sprites/itemicons/tm-'+moveType+'.png) no-repeat"></span>';
-					break;
-				case 'e': // tutor
-					if (lastChanged) buf += '<li class="resultheader"><h3>Tutor</h3></li>';
-					desc = '<img src="' + Dex.resourcePrefix + 'sprites/tutor.png" style="margin-top:-4px;opacity:.7" width="27" height="26" alt="T" />';
-					break;
-				case 'f': // egg move
-					if (lastChanged) buf += '<li class="resultheader"><h3>Egg</h3></li>';
-					desc = '<span class="picon" style="margin-top:-12px;'+Dex.getPokemonIcon('egg')+'"></span>';
-					break;
-				case 'g': // prevo1 egg move
-					if (lastChanged) buf += '<li class="resultheader"><h3>Egg from '+BattlePokedex[prevo1].name+'</h3></li>';
-					desc = '<span class="picon" style="margin-top:-12px;'+Dex.getPokemonIcon('egg')+'"></span>';
-					break;
-				case 'h': // prevo2 egg move
-					if (lastChanged) buf += '<li class="resultheader"><h3>Egg from '+BattlePokedex[prevo2].name+'</h3></li>';
-					desc = '<span class="picon" style="margin-top:-12px;'+Dex.getPokemonIcon('egg')+'"></span>';
-					break;
+					case 'a': // level-up move
+						if (lastChanged) buf += '<li class="resultheader"><h3>Level-up</h3></li>';
+						level = parseInt(moves[i].substr(1,3));
+						desc = level === 0 ? 'Evo' : level === 1 ? '&ndash;' : '<small>L</small>'+(level||'?');
+						break;
+					case 'b': // prevo1 level-up move
+						if (lastChanged) buf += '<li class="resultheader"><h3>Level-up from '+BattlePokedex[prevo1].name+'</h3></li>';
+						level = parseInt(moves[i].substr(1,3));
+						desc = level === 0 ? 'Evo' : level === 1 ? '&ndash;' : '<small>L</small>'+(level||'?');
+						break;
+					case 'c': // prevo2 level-up move
+						if (lastChanged) buf += '<li class="resultheader"><h3>Level-up from '+BattlePokedex[prevo2].name+'</h3></li>';
+						level = parseInt(moves[i].substr(1,3));
+						desc = level === 0 ? 'Evo' : level === 1 ? '&ndash;' : '<small>L</small>'+(level||'?');
+						break;
+					case 'd': // tm/hm
+						if (lastChanged) buf += '<li class="resultheader"><h3>TM/HM</h3></li>';
+						desc = '<span class="itemicon" style="margin-top:-3px;'+Dex.getItemIcon({spritenum:508})+'"></span>';
+						break;
+					case 'e': // tutor
+						if (lastChanged) buf += '<li class="resultheader"><h3>Tutor</h3></li>';
+						desc = '<img src="' + Dex.resourcePrefix + 'sprites/tutor.png" style="margin-top:-4px;opacity:.7" width="27" height="26" alt="T" />';
+						break;
+					case 'f': // egg move
+						if (lastChanged) buf += '<li class="resultheader"><h3>Egg</h3></li>';
+						desc = '<span class="picon" style="margin-top:-12px;'+Dex.getPokemonIcon('egg')+'"></span>';
+						break;
+					case 'g': // prevo1 egg move
+						if (lastChanged) buf += '<li class="resultheader"><h3>Egg from '+BattlePokedex[prevo1].name+'</h3></li>';
+						desc = '<span class="picon" style="margin-top:-12px;'+Dex.getPokemonIcon('egg')+'"></span>';
+						break;
+					case 'h': // prevo2 egg move
+						if (lastChanged) buf += '<li class="resultheader"><h3>Egg from '+BattlePokedex[prevo2].name+'</h3></li>';
+						desc = '<span class="picon" style="margin-top:-12px;'+Dex.getPokemonIcon('egg')+'"></span>';
+						break;
 				}
 				buf += BattleSearch.renderTaggedMoveRow(move, desc);
 			}
