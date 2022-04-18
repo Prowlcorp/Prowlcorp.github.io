@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mkdirp": "^1.0.4",
+    "showdown": "^2.0.3"
+  }
+}

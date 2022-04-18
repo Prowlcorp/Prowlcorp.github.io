@@ -3,6 +3,7 @@
 
 const fs = require('fs');
 const showdown = require('showdown');
+const mkdirp = require("mkdirp");
 const converter = new showdown.Converter({
 	tables: true,
 	simpleLineBreaks: true,
@@ -119,6 +120,10 @@ for (const file of files) {
 
 	buf = buf.replace(/\n/g, '\n\t\t').replace(/\n\t\t\n/g, '\n\n');
 
+	//mkdirp('../.articles-cached/');
+	if (!fs.existsSync('../.articles-cached')) {
+		fs.mkdirSync('../.articles-cached', { recursive: true});
+	}
 	fs.writeFileSync('../.articles-cached/' + name + '.html', buf);
 }
 
