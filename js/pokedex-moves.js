@@ -350,7 +350,7 @@ var PokedexMovePanel = PokedexResultPanel.extend({
 	},
 	renderRow: function(i, offscreen) {
 		var results = this.results;
-		var id = results[i].substr(5);
+		var id = results[i].split(' ')[1];
 		var template = id ? BattlePokedex[id] : undefined;
 		if (!template) {
 			switch (results[i].charAt(0)) {
