@@ -1,42 +1,42 @@
-Rus on all
-IVS up to team __
-Super Ivs up to team __
-Nature up to team __
-Team 1:
-Vaan (Venusaur) (M) @ Heat Rock
+**Rus on all**
+**IVS up to team __**
+**Super Ivs up to team __**
+**Nature up to team __**
+**Team 1:**
+**Vaan** (Venusaur) (M) @ Heat Rock
 Ability: Filter(HA)
 Level: 150
 EVs: 128 Def / 128 SpD / 252 Spe
-Modest Nature 
-- Sleep Powder  
+Modest Nature
+- Sleep Powder
 - Solar Beam
-- Growth  
-- Giga Drain  
+- Growth
+- Giga Drain
 (Medium Slow)(///32,757)
-Mismagius (F)  (ME)
-Ability: Levitate  
+**Mismagius** (F) (ME)
+Ability: Levitate
 Level: 100
-Naughty Nature  
+Naughty Nature
 IVs: 23 HP
-- Pain Split  
-- Curse  
-- Sucker Punch  
-- Spite  
+- Pain Split
+- Curse
+- Sucker Punch
+- Spite
 (Fast)(468)
-Bushi (Bisharp) (M) @ Black Glasses
-Ability: Defiant  
+**Bushi** (Bisharp) (M) @ Black Glasses
+Ability: Defiant
 Level: 100
-Adamant Nature 
+Adamant Nature
 - Swords Dance
 - Iron Head
 - False Swipe
 - Night Slash
 (Medium Fast)(///29,701)
-Yun (Zangoose) (F)  Anthro(Smoother fur 5'4")
+**Yun** (Zangoose) (F) [Anthro(Smoother fur](https://e621.net/post/show/1157969/abstract_background-anthro-big_breasts-breasts-fac) [5'4"](https://e621.net/post/show/1157969/abstract_background-anthro-big_breasts-breasts-fac)[)](https://e621.net/post/show/1157969/abstract_background-anthro-big_breasts-breasts-fac)
 Ability: Pure Power
 Level: 207
 EVs: Perf
-Adamant Nature  
+Adamant Nature
 - Return
 - Brick Break
 - Shadow Claw
@@ -44,66 +44,66 @@ Adamant Nature
 - Hold Back
 - Taunt
 (Erratic)(0///18,309)
-Appu (Ambipom) (M)
+**Appu** (Ambipom) (M)
 Ability: Parental Bond
 Level: 205
 EVs: Perf
-Adamant Nature  
-- Low Sweep  
+Adamant Nature
+- Low Sweep
 - Return
 - Shadow Claw
 - Acrobatics
 -
 -
 (Fast)(0///23,761)
-Breloom (M) (ME)
-Ability: Adaptability  
+**Breloom** (M) (ME)
+Ability: Adaptability
 Level: 200
 EVs: 252 Atk / 252 Spe
 Adamant Nature
-- Mach Punch  
-- Stun Spore  
-- Dynamic Punch  
-- Seed Bomb  
+- Mach Punch
+- Stun Spore
+- Dynamic Punch
+- Seed Bomb
 (Fluctuating)(////47,153)
-Shadow (Breloom) (M)  (ME)
-Ability: Poison Heal  
-Level: 1  
+**Shadow (Breloom)** (M) (ME)
+Ability: Poison Heal
+Level: 1
 Adamant Nature
-IVs: 19 SpA  
-- Mach Punch  
-- Stun Spore  
-- Dynamic Punch  
-- Seed Bomb  
-Team 2:
-Sephiroth (Samurott) (M)  
-Ability: Torrent  
+IVs: 19 SpA
+- Mach Punch
+- Stun Spore
+- Dynamic Punch
+- Seed Bomb
+**Team 2:**
+**Sephiroth** (Samurott) (M)
+Ability: Torrent
 Level: 116
-Quiet Nature  
+Quiet Nature
 - Hydro Pump
-- Ice Beam  
+- Ice Beam
 - Aqua Jet
-- Fury Cutter  
+- Fury Cutter
 (Medium Slow)(///32,757)
-Kaen (Infernape) (M)
-Ability: Blaze  
+**Kaen** (Infernape) (M)
+Ability: Blaze
 Level: 118
 Naughty Nature
 - Close Combat
 - Flare Blitz
-- Mach Punch  
+- Mach Punch
 - Acrobatics
 (Medium Slow)(///32,757)
-Flint (Combusken) (M) @ Scope Lens
-Ability: Blaze  
+**Flint** (Combusken) (M) @ Scope Lens
+Ability: Blaze
 Level: 100
 Naughty Nature
 - Flare Blitz
-- Peck  
+- Peck
 - Sky Uppercut
 - Bulk Up
 (Medium Slow)(///32,757)
-Kazan (Typhlosion) (F)
+**Kazan** (Typhlosion) (F)
 Ability: Drought
 Level: 200
 EVs: 252 SpA / 252 Spe
@@ -115,26 +115,26 @@ Modest Nature
 -
 -
 (Medium Slow)(///32,757)
-Lamont (Swampert) (M)
-Ability: Torrent  
+**Lamont** (Swampert) (M)
+Ability: Torrent
 Level: 100
 Adamant Nature
 - Muddy Water
 - Hammer Arm
-- Rock Slide  
+- Rock Slide
 - Earthquake
 (Medium Slow)(///32,757)
-Barreth (Blastoise) (M)  
-Ability: Torrent  
+**Barreth** (Blastoise) (M)
+Ability: Torrent
 Level: 100
 Quiet Nature
-- Protect  
-- Waterfall  
-- Skull Bash  
+- Protect
+- Waterfall
+- Skull Bash
 - Hydro Pump
 (Medium Slow)(///32,757)
-Team 3:
-KX5 (Magneton) @ Eviolite
+**Team 3:**
+**KX5** (Magneton) @ Eviolite
 Ability: Analytic
 Level: 100
 Modest Nature
@@ -144,7 +144,7 @@ IVs: 23 Atk / 11 Spe
 - Magnet Rise
 - Discharge
 (Medium Fast)(///29,701)
-Thistle (Sceptile) (M)
+**Thistle** (Sceptile) (M)
 Ability: Overgrow
 Level: 100
 Timid Nature
@@ -153,19 +153,19 @@ Timid Nature
 - Leer
 - Low Sweep
 (Medium Slow)(///32,757)
-Sebastian (Dusknoir) (M)
+**Sebastian** (Dusknoir) (M)
 Ability: Sheer Force
 Level: 150
 EVs: 252 Def / 252 SpD
 Careful Nature
-IVs: 9 HP /  9 Spe
+IVs: 9 HP / 9 Spe
 - Memento
 - Future Sight
 - Infestation
 - Curse
 -
 (Fast)(///23,761)
-Jeice (Empoleon) (M)
+**Jeice** (Empoleon) (M)
 Ability: Torrent
 Level: 100
 Sassy Nature
@@ -174,14 +174,14 @@ Sassy Nature
 - Bubble Beam
 - Drill Peck
 (Medium Slow)(///32,757)
-Daxter (Ditto)
+**Daxter** (Ditto)
 Ability: Imposter
 Level: 150
-EVs: 252 Hp 
+EVs: 252 Hp
 Naive Nature
 - Transform
 (Medium Fast)(0///29,701)
-Doublade (F)
+**Doublade** (F)
 Ability: No Guard
 Level: 100
 Shiny: Shiny
@@ -191,8 +191,8 @@ Adamant Nature
 - Iron Head
 - Shadow Claw
 (Medium Fast)()
-Team 4:
-Amalia (Unfezant) (F)
+**Team 4:**
+**Amalia** (Unfezant) (F)
 Ability: Big Pecks
 Level: 100
 Jolly Nature
@@ -201,7 +201,7 @@ Jolly Nature
 - Swagger
 - Air Slash
 (Medium Slow)(///32,757)
-Happy (Sawsbuck-Summer) (M)
+**Happy** (Sawsbuck-Summer) (M)
 Ability: Sap Sipper
 Level: 100
 EVs: 252 Spe
@@ -211,7 +211,7 @@ Jolly Nature
 - Aromatherapy
 - Energy Ball
 (Medium Fast)(///29,701)
-Lyra (Braixen) (F)
+**Lyra** (Braixen) (F)
 Ability: Blaze
 Level: 100
 Timid Nature
@@ -221,7 +221,7 @@ IVs: 18 Atk
 - Psyshock
 - Light Screen
 (Medium Slow)(1221)
-Pallet (Bronzong)
+**Pallet** (Bronzong)
 Ability: Levitate
 Level: 100
 Brave Nature
@@ -230,7 +230,7 @@ Brave Nature
 - Future Sight
 - Extrasensory
 (Medium Fast)(298)
-Rampardos (M)
+**Rampardos** (M)
 Ability: Sheer Force
 Level: 100
 Adamant Nature
@@ -239,7 +239,7 @@ Adamant Nature
 - Head Smash
 - Headbutt
 (Erratic)()
-Scolipede (M) @ Black Sludge (ME) 
+**Scolipede** (M) @ Black Sludge (ME)
 Ability: Merciless
 Level: 150
 EVs: 252 Atk / 252 Spe
@@ -250,18 +250,18 @@ Adamant Nature
 - Earthquake
 -
 (Medium Slow)(///32,757)
-Team 5:
-Rhydon (M)
-Ability: Lightning Rod  
+**Team 5:**
+**Rhydon** (M)
+Ability: Lightning Rod
 Level: 100
-Adamant Nature  
-IVs: 26 HP  / 24 Def / 19 SpA / 25 SpD / 26 Spe  
-- Megahorn  
-- Earthquake  
-- Stone Edge  
+Adamant Nature
+IVs: 26 HP / 24 Def / 19 SpA / 25 SpD / 26 Spe
+- Megahorn
+- Earthquake
+- Stone Edge
 - Hammer arm
 (Slow)()
-Pelipper (M)
+**Pelipper** (M)
 Ability: Drizzle
 Level: 101
 EVs: 252 SpA
@@ -272,7 +272,7 @@ IVs: 27 HP / 21 Atk / 28 Def / 30 SpA / 26 SpD / 27 Spe
 - Roost
 - Brine
 (Medium Fast)(0//29,701)
-Nathan (Electivire) (M)
+**Nathan** (Electivire) (M)
 Ability: Motor Drive
 Level: 100
 Jolly Nature
@@ -282,7 +282,7 @@ IVs: 29 HP / 21 Def / 21 SpD / 30 Spe
 - Electro Ball
 - Thunder Wave
 (Medium Fast)(1315)
-Alex (Ampharos) (F)
+**Alex** (Ampharos) (F)
 Ability: Static
 Level: 100
 Quiet Nature
@@ -292,7 +292,7 @@ IVs: 20 HP / 24 Atk / 29 Def / 27 SpA / 24 SpD / 20 Spe
 - Cotton Guard
 - Dragon Pulse
 (Medium Slow)(1040)
-Sophilia (Raichu) (F) Anthro
+**Sophilia** (Raichu) (F) [Anthro](https://e621.net/post/show/876119/2016-anthro-anthrofied-big_breasts-breasts-brown_e)
 Ability: Static
 Level: 100
 EVs: 252 SpA / 252 Spe
@@ -303,7 +303,7 @@ IVs: 22 HP / 28 Def / 30 SpA / 25 SpD / 25 Spe
 - Electro Ball
 - Agility
 (Medium Fast)(241)
-Luxray (M) Anthro
+**Luxray** (M) [Anthro](https://e621.net/post/show/913686/anthro-anthrofied-balls-barbed_penis-blue_balls-fe)
 Ability: Intimidate
 Level: 100
 Naughty Nature
@@ -313,8 +313,8 @@ IVs: 27 HP / 26 Atk / 30 Def / 30 SpA / 27 SpD / 29 Spe
 - Bite
 - Crunch
 (Medium Slow)(///32,757)
-Team 6:
-Cradily (M)
+**Team 6:**
+**Cradily** (M)
 Ability: Suction Cups
 Level: 100
 Quiet Nature
@@ -324,7 +324,7 @@ IVs: 22 HP / 27 Atk / 20 Def / 24 SpD / 26 Spe
 - Ancient Power
 - Confuse Ray
 (Erratic)(///18,309)
-Heliolisk (F)
+**Heliolisk** (F)
 Ability: Dry Skin
 Level: 100
 Modest Nature
@@ -334,7 +334,7 @@ IVs: 23 HP / 8 Atk / 27 Def / 29 SpA / 23 SpD / 29 Spe
 - Bulldoze
 - Quick Attack
 (Medium Fast)
-Archeops (M)
+**Archeops** (M)
 Ability: Defeatist
 Level: 100
 Mild Nature
@@ -344,7 +344,7 @@ IVs: 25 HP / 30 Def / 30 SpA / 27 SpD / 24 Spe
 - Double Team
 - Dragon Breath
 (Medium Fast)(///29,701)
-Charizard (F)
+**Charizard** (F)
 Ability: Blaze
 Level: 100
 Rash Nature
@@ -354,7 +354,7 @@ IVs: 23 HP / 30 Atk / 29 Def / 24 SpA / 23 SpD / 27 Spe
 - Slash
 - Flamethrower
 (Medium Slow)
-Raine (Roselia) (F)
+**Raine** (Roselia) (F)
 Ability: Natural Cure
 Level: 100
 Hasty Nature
@@ -364,7 +364,7 @@ IVs: 30 HP / 29 Atk / 28 Def / 26 SpA / 22 SpD / 26 Spe
 - Synthesis
 - Petal Blizzard
 (Medium Slow)(3198)
-Typhlosion (M)
+**Typhlosion** (M)
 Ability: Blaze
 Level: 100
 Lonely Nature
@@ -374,8 +374,8 @@ IVs: 29 HP / 24 SpD
 - Quick Attack
 - Burn Up
 (Medium Slow)(3670)
-Team 7:
-Polaris (F)
+**Team 7:**
+**Polaris** (F)
 Ability: Volt Conduit
 Level: 100
 Timid Nature
@@ -385,7 +385,7 @@ IVs: 28 HP / 27 Def / 25 SpA / 30 SpD / 27 Spe
 - Baton Pass
 - Trump Card
 (Medium Fast)()
-Sasha (Darmanitan) (F)
+**Sasha** (Darmanitan) (F)
 Ability: Zen Mode
 Level: 100
 Modest Nature
@@ -395,7 +395,7 @@ IVs: 24 HP / 26 Atk / 26 Def / 23 SpA / 22 SpD / 21 Spe
 - Belly Drum
 - Psychic
 (Medium Slow)(406)
-Leon (Linoone) (M)
+**Leon** (Linoone) (M)
 Ability: Pickup
 Level: 100
 Naughty Nature
@@ -405,7 +405,7 @@ IVs: 25 HP / 25 Atk / 27 Def / 20 SpA / 25 Spe
 - Covet
 - Extreme Speed
 (Medium Fast)(1547)
-Dante (Lucario) (M) (ME)
+**Dante** (Lucario) (M) (ME)
 Ability: Inner Focus
 Level: 100
 EVs: 252 SpA / 252 Spe
@@ -416,7 +416,7 @@ IVs: 27 HP / 20 Def / 29 SpA / 25 SpD / 27 Spe
 - Detect
 - Me First
 (Medium Slow)(///32,757)
-Aidan (Ampharos) (M)
+**Aidan** (Ampharos) (M)
 Ability: Static
 Level: 100
 Bold Nature
@@ -426,7 +426,7 @@ IVs: 27 HP / 20 Atk / 30 Def / 25 SpA / 26 SpD / 26 Spe
 - Signal Beam
 - Discharge
 (Medium Slow)(2178)
-Empoleon (M)
+**Empoleon** (M)
 Ability: Defiant
 Level: 100
 Brave Nature
@@ -434,10 +434,10 @@ IVs: 25 HP / 23 Atk / 27 Def / 24 SpA / 24 SpD / 23 Spe
 - Scald
 - Flash Cannon
 - Drill Peck
-- Aqua Jet 
+- Aqua Jet
 (Medium Slow)(612)
-Team 8:
-Luxray (F)
+**Team 8:**
+**Luxray** (F)
 Ability: Guts
 Level: 100
 Adamant Nature
@@ -446,7 +446,7 @@ Adamant Nature
 - Crunch
 - Discharge
 (Medium Slow)
-Ferris (Feraligatr) (M)
+**Ferris** (Feraligatr) (M)
 Ability: Motor Drive
 Level: 200
 EVs: 252 Atk / 252 Spe
@@ -457,7 +457,7 @@ IVs: 27 HP / 29 Atk / 26 Def / 20 SpA / 23 SpD / 29 Spe
 - Aqua Tail
 - Superpower
 (Medium Slow)()
-Alice (Audino) (F) @ Audinite
+**Alice** (Audino) (F) @ Audinite
 Ability: Healer
 Level: 100
 Modest Nature
@@ -467,7 +467,7 @@ IVs: 27 HP / 19 Atk / 29 Def / 25 SpA / 28 SpD / 17 Spe
 - Simple Beam
 - Secret Power
 (Fast)(///23,761)
-Magnus (Meganium) (M)
+**Magnus** (Meganium) (M)
 Ability: Grassy Surge
 Level: 200
 EVs: 252 Atk / 252 SpD
@@ -478,7 +478,7 @@ IVs: 26 HP / 26 Atk / 21 Def / 30 SpA / 23 SpD / 27 Spe
 - Petal Blizzard
 - Petal Dance
 (Medium Slow)()
-Electrode
+**Electrode**
 Ability: Soundproof
 Level: 100
 Modest Nature
@@ -488,7 +488,7 @@ IVs: 19 HP / 26 Atk / 19 Def / 30 SpA / 30 SpD / 26 Spe
 - Magnet Rise
 - Light Screen
 (Medium Fast)(964)
-Xander (Natu) (M)
+**Xander** (Natu) (M)
 Ability: Synchronize
 Level: 100
 EVs: 252 Spe
@@ -497,10 +497,10 @@ IVs: 26 HP / 30 Atk / 29 Def / 30 SpA / 25 SpD / 25 Spe
 - Me First
 - Psychic
 - Future Sight
-- Confuse Ray 
+- Confuse Ray
 (Medium Fast)(0//29701)
-Team 9:
-Mei (Stakataka) WORK ON
+**Team 9:**
+**Mei** (Stakataka) **WORK ON**
 Ability: Beast Boost
 Level: 100
 Sassy Nature
@@ -508,9 +508,9 @@ IVs: 11 SpD / 19 Spe
 - Gyro Ball
 - Rock Blast
 - Iron Head
-- Earthquake 
+- Earthquake
 (Slow)()
-Charen (Charizard) (M)
+**Charen** (Charizard) (M)
 Ability: Blaze
 Level: 100
 Modest Nature
@@ -520,7 +520,7 @@ IVs: 28 HP / 28 Atk / 30 Def / 25 Spe
 - Slash
 - Wing Attack
 (Medium Slow)(3934)
-Omastar (F)
+**Omastar** (F)
 Ability: Battle Armor
 Level: 100
 Modest Nature
@@ -530,17 +530,17 @@ IVs: 21 HP / 9 Atk / 25 Def / 25 SpA / 4 Spe
 - Hydro Pump
 - Bite
 (Medium Fast)(///29,701)
-Toxapex (F)
+**Toxapex** (F)
 Ability: Merciless
 Level: 100
 Brave Nature
 IVs: 2 HP / 12 Atk / 26 SpA / 25 Spe
 - Liquidation
 - Pin Missile
-- Poison Jab 
+- Poison Jab
 - Baneful Bunker
 (Medium Fast)(///29,701)
-Henry (Heliolisk) (M)
+**Henry** (Heliolisk) (M)
 Ability: Dry Skin
 Level: 100
 EVs: 252 SpA / 252 Spe
@@ -551,7 +551,7 @@ IVs: 30 HP / 23 Atk / 23 Def / 28 SpA / 26 SpD / 29 Spe
 - Parabolic Charge
 - Thunder Wave
 (Medium Fast)(1017)
-Wobbuffet (F)
+**Wobbuffet** (F)
 Ability: Shadow Tag
 Level: 100
 Modest Nature
@@ -559,10 +559,10 @@ IVs: 30 HP / 25 Atk / 27 SpA / 27 SpD / 23 Spe
 - Destiny Bond
 - Safeguard
 - Mirror Coat
-- Counter 
+- Counter
 (Medium Fast)(///29,701)
-Team 10:
-Medicham (M)
+**Team 10:**
+**Medicham** (M)
 Ability: Speed Boost
 Level: 151
 EVs: 252 Atk / 252 Spe
@@ -574,7 +574,7 @@ IVs: 21 HP / 23 Atk / 20 SpA / 26 SpD / 30 Spe
 - Force Palm
 -
 (Medium Fast)(///29,701)
-Pansage (M)
+**Pansage** (M)
 Ability: Gluttony
 Level: 1
 Shiny: Shiny
@@ -582,7 +582,7 @@ Docile Nature
 - Play Nice
 - Scratch
 (Medium Fast)
-Servine (F)
+**Servine** (F)
 Ability: Overgrow
 Level: 100
 Modest Nature
@@ -592,7 +592,7 @@ IVs: 26 HP / 25 Atk / 24 Def / 24 SpD / 28 Spe
 - Wring Out
 - Giga Drain
 (Medium Slow)(///32,757)
-Chansey @ Eviolite (ME)
+**Chansey** @ Eviolite (ME)
 Ability: Fur Coat
 Level: 201
 EVs: Perf
@@ -600,11 +600,11 @@ Bold Nature
 - Swagger
 - Fire Blast
 - Thunder Wave
-- 
+-
 -
 -
 (Fast)(///23,761)
-Shuckle (F) @ Leftovers
+**Shuckle** (F) @ Leftovers
 Ability: Sturdy
 Level: 100
 Relaxed Nature
@@ -614,7 +614,7 @@ IVs: 26 HP / 27 Atk / 30 Def / 9 SpA / 24 SpD / 26 Spe
 - Substitute
 - Rock Slide
 (Medium Slow)(///32,757)
-Tidus (Altaria) (M)
+**Tidus** (Altaria) (M)
 Ability: Natural Cure
 Level: 102
 EVs: 252 HP / 252 Atk
@@ -623,10 +623,10 @@ IVs: 30 HP / 29 Atk / 22 Def / 30 SpA / 28 SpD / 26 Spe
 - Return
 - Dragon Claw
 - Earthquake
-- Cotton Guard 
+- Cotton Guard
 (Erratic)(///18,309)
-Team 11:
-Serperior (M)
+**Team 11:**
+**Serperior** (M)
 Ability: Contrary
 Level: 100
 Modest Nature
@@ -636,7 +636,7 @@ IVs: 27 HP / 25 Atk / 24 Def / 22 SpA / 26 SpD / 28 Spe
 - Giga Drain
 - Leaf Blade
 (Medium Slow)(9)
-Ambipom (F)
+**Ambipom** (F)
 Ability: Skill Link
 Level: 100
 Adamant Nature
@@ -646,7 +646,7 @@ IVs: 28 HP / 23 Atk / 22 Def / 12 SpA / 20 SpD / 28 Spe
 - Thunder
 - Giga Impact
 (Fast)(///23,761)
-Keith (Liepard) (M) @ Razor Claw (ME) Anthro
+**Keith** (Liepard) (M) @ Razor Claw (ME) [Anthro](https://e621.net/post/show/905203)
 Ability: Unburden
 Level: 100
 EVs: 252 Atk / 128 SpA / 128 Spe
@@ -656,7 +656,7 @@ Naughty Nature
 - Play Rough
 - Snatch
 (Medium Fast)(2079)
-Reina (Weavile) (F) (ME)
+**Reina** (Weavile) (F) (ME)
 Ability: Tough Claws(HA)
 Level: 203
 EVs: 252 Atk / 252 Spe
@@ -664,9 +664,9 @@ Adamant Nature
 - Night Slash
 - Ice Punch
 - Poison Jab
-- Shadow Claw 
+- Shadow Claw
 (Medium Slow)(///32,757)
-Artemis Jr. (Armaldo) (M)
+**Artemis Jr.** (Armaldo) (M)
 Ability: Battle Armor
 Level: 100
 Relaxed Nature
@@ -676,7 +676,7 @@ IVs: 30 HP / 26 Def / 30 SpA / 27 SpD / 29 Spe
 - X-Scissor
 - Earthquake
 (Erratic)(4167)
-Gardevoir (F)
+**Gardevoir** (F)
 Ability: Trace
 Level: 100
 Timid Nature
@@ -686,8 +686,8 @@ IVs: 27 HP / 21 SpA / 24 Spe
 - Moonblast
 - Magical Leaf
 (Slow)(56)
-Team 12:
-Staraptor (F)
+**Team 12:**
+**Staraptor** (F)
 Ability: Intimidate
 Level: 100
 Adamant Nature
@@ -697,7 +697,7 @@ IVs: 22 HP / 26 Atk / 26 Def / 26 SpA / 25 SpD / 26 Spe
 - Take Down
 - Close Combat
 (Medium Slow)()
-Girafarig (F)
+**Girafarig** (F)
 Ability: Inner Focus
 Level: 100
 Timid Nature
@@ -706,7 +706,7 @@ Timid Nature
 - Nasty Plot
 - Psychic
 (Medium Fast)(///29.701)
-Noctowl (F)
+**Noctowl** (F)
 Ability: Keen Eye
 Level: 100
 Calm Nature
@@ -716,7 +716,7 @@ IVs: 25 HP / 19 Atk / 27 Def / 22 SpA / 30 SpD / 30 Spe
 - Uproar
 - Air Slash
 (Medium Fast)()
-Krookodile (M)
+**Krookodile** (M)
 Ability: Moxie
 Level: 100
 Jolly Nature
@@ -726,7 +726,7 @@ IVs: 30 HP / 27 Atk / 29 Def / 28 SpA / 26 SpD
 - Foul Play
 - Rock Slide
 (Medium Slow)(2433)
-Runerigus (F)
+**Runerigus** (F)
 Ability: Wandering Spirit
 Level: 55
 Bold Nature
@@ -736,7 +736,7 @@ IVs: 4 HP / 27 Atk / 12 Def / 2 SpA / 25 SpD / 23 Spe
 - Return
 - Destiny Bond
 (Medium Fast)()
-Blaziken (F) Diff Figure
+**Blaziken** (F) Diff Figure
 Ability: Speed Boost
 Level: 100
 EVs: 252 HP / 252 Atk / 4 Spe
@@ -747,8 +747,8 @@ IVs: 23 HP / 30 Atk / 30 Def / 24 SpA / 26 SpD / 24 Spe
 - Flare Blitz
 - Earthquake
 (Medium Slow)(3025)
-Team 13:
-Armaldo (F)
+**Team 13:**
+**Armaldo** (F)
 Ability: Swift Swim
 Level: 100
 Jolly Nature
@@ -758,7 +758,7 @@ IVs: 28 HP / 23 Def / 25 SpA / 29 SpD / 23 Spe
 - X-Scissor
 - Brine
 (Erratic)(2056)
-Bastiodon (M)
+**Bastiodon** (M)
 Ability: Sturdy
 Level: 100
 Sassy Nature
@@ -768,20 +768,20 @@ IVs: 28 HP / 28 Atk / 27 Def / 24 SpD / 24 Spe
 - Metal Burst
 - Heavy Slam
 (Erractic)(2056)
-Tanya (Lucario) (F) Anthro
+**Tanya** (Lucario) (F) [Anthro](http://d.facdn.net/art/kitsunewaffles-chan/1555201545/1555201525.kitsunewaffles-chan_lucariobabensfw.png)
 Ability: Soul Heart (HA)
 Level: 201
 EVs: 252 SpA / 252 Spe
 Modest Nature
 IVs: 30 Atk / 30 Def
 - Focus Blast
-- 
+-
 - Hidden Power[Ice]
-- 
+-
 -
 -
 (Medium Slow)(///32,757)
-Xing (Archeops) (F)
+**Xing** (Archeops) (F)
 Ability: Tough Claws
 Level: 151
 EVs: 252 Atk / 252 Spe
@@ -793,7 +793,7 @@ IVs: 28 HP / 27 Def / 20 SpD / 28 Spe
 - Acrobatics
 -
 (Medium Fast)(0//29,701)
-Cradily (M)
+**Cradily** (M)
 Ability: Suction Cups
 Level: 100
 Calm Nature
@@ -803,7 +803,7 @@ IVs: 21 HP / 27 Atk / 30 Def / 28 SpA / 27 SpD / 22 Spe
 - Confuse Ray
 - Ancient Power
 (Erratic)(2056)
-Jolteon (M) Anthro
+**Jolteon** (M) [Anthro](https://e621.net/post/show/125879/2011-anthro-azelyn-claws-clothing-cum-eeveelution-)
 Ability: Volt Absorb
 Level: 100
 Modest Nature
@@ -813,18 +813,18 @@ IVs: 27 HP / 19 Atk / 23 Def / 25 SpA / 22 SpD / 25 Spe
 - Discharge
 - Thunder Wave
 (Medium Fast)(166)
-Team 14:
-Tyrantrum (M) Anthro
+**Team 14:**
+**Tyrantrum** **(M)** [**Anthro**](https://e621.net/posts/1135843?q=tyrantrum+penis+solo+anthro)
 Ability: Strong Jaw
 Level: 100
 Lax Nature
-IVs:  25 Atk / 20 Def
+IVs: 25 Atk / 20 Def
 - Earthquake
-- 
+-
 - Head Smash
 - Giga Impact
 (Medium Fast)(///29,701)
-Lopunny (F)
+**Lopunny** (F)
 Ability: Cute Charm
 Level: 100
 Adamant Nature
@@ -834,7 +834,7 @@ IVs: 27 HP / 28 Atk / 27 Def / 20 SpA / 21 SpD / 29 Spe
 - High Jump Kick
 - Quick Attack
 (Medium Fast)
-Octillery (M)
+**Octillery** (M)
 Ability: Sniper
 Level: 100
 Quiet Nature
@@ -844,7 +844,7 @@ IVs: 26 HP / 26 Atk / 23 Def / 30 SpA / 22 SpD / 29 Spe
 - Ice Beam
 - Psybeam
 (Medium Fast)
-Machoke (F)
+**Machoke** (F)
 Ability: Guts
 Level: 100
 Sassy Nature
@@ -854,7 +854,7 @@ IVs: 21 HP / 22 Atk / 30 Def / 30 SpD / 26 Spe
 - Knock Off
 - Dual Chop
 (Medium Slow)(640)
-Chandelure (F)
+**Chandelure** (F)
 Ability: Flash Fire
 Level: 100
 Modest Nature
@@ -862,9 +862,9 @@ IVs: 23 HP / 20 Def / 26 SpD
 - Shadow Ball
 - Energy Ball
 - Pain Split
-- Flamethrower 
+- Flamethrower
 (Medium Slow)()
-Marowak-Alola (M) (ME) WORK ON+Nature
+**Marowak-Alola** (M) (ME) WORK ON+Nature
 Ability: Lightning Rod
 Level: 100
 EVs: 252 Atk / 252 SpD
@@ -873,10 +873,10 @@ IVs: 22 HP / 3 Atk / 17 Def / 9 SpA / 6 SpD / 29 Spe
 - Shadow Bone
 - Flare Blitz
 - Earthquake
-- Iron Head 
+- Iron Head
 (Medium Fast)()
-Team 15:
-Delcatty (F) WORK ON
+**Team 15:**
+**Delcatty** (F) WORK ON
 Ability: Normalize
 Level: 100
 Modest Nature
@@ -884,9 +884,9 @@ IVs: 6 HP / 22 Atk / 7 Def / 25 SpA / 28 SpD / 16 Spe
 - Play Rough
 - Captivate
 - Double-Edge
-- Heal Bell 
+- Heal Bell
 (Fast)(///23,761)
-Aurorus (M)
+**Aurorus** (M)
 Ability: Refrigerate
 Level: 100
 Modest Nature
@@ -896,7 +896,7 @@ IVs: 21 HP / 27 Atk / 29 Def / 28 SpA / 22 SpD / 30 Spe
 - Ancient Power
 - Flash Cannon
 (Medium Fast)(456)
-Garbodor (F)
+**Garbodor** (F)
 Ability: Stench
 Level: 100
 Jolly Nature
@@ -906,7 +906,7 @@ IVs: 27 HP / 24 Atk / 24 Def / 27 SpA / 30 SpD / 27 Spe
 - Acid Spray
 - Gunk Shot
 (Medium Fast)()
-Eelektross (F)
+**Eelektross** (F)
 Ability: Levitate
 Level: 100
 EVs: 252 HP / 128 Atk / 128 SpA
@@ -917,7 +917,7 @@ IVs: 28 HP / 22 Def / 26 SpA / 23 SpD / 10 Spe
 - Zap Cannon
 - Crunch
 (Slow)()
-Sceptile (M)
+**Sceptile** (M)
 Ability: Overgrow
 Level: 100
 Modest Nature
@@ -927,7 +927,7 @@ IVs: 23 Def / 29 SpA / 29 SpD / 28 Spe
 - Dragon Pulse
 - Detect
 (Medium Slow)()
-Garchomp (F) Anthro
+**Garchomp** (F) [Anthro](https://e621.net/post/show/1524875/2015-anthro-breasts-clothing-controller-female-gar)
 Ability: Sand Veil
 Level: 100
 Jolly Nature
@@ -935,10 +935,10 @@ IVs: 21 HP / 28 Atk / 21 Def / 23 SpA / 24 SpD / 26 Spe
 - Dragon Claw
 - Crunch
 - Dig
-- Sandstorm 
+- Sandstorm
 (Slow)(///37,127)
-Team 16:
-Clefairy (F) WORK ON
+**Team 16:**
+**Clefairy** (F) WORK ON
 Ability: Cute Charm
 Level: 100
 Modest Nature
@@ -946,176 +946,176 @@ IVs: 20 HP / 6 Atk / 9 Def / 7 SpA / 3 SpD / 17 Spe
 - Stored Power
 - Moonlight
 - Moonblast
-- Cosmic Power 
+- Cosmic Power
 (Fast)()
-Tropius (F)
-Ability: Harvest  
+**Tropius (F)**
+Ability: Harvest
 Level: 100
-Bold Nature  
-IVs: 26 HP / 24 Def / 23 SpA / 20 SpD / 15 Spe  
-- Air Slash  
-- Body Slam  
-- Solar Beam 
+Bold Nature
+IVs: 26 HP / 24 Def / 23 SpA / 20 SpD / 15 Spe
+- Air Slash
+- Body Slam
+- Solar Beam
 - Synthesis
 (Slow)()
-Jeanne (Salazzle) (F)  
-Ability: Corrosion  
+**Jeanne** (Salazzle) (F)
+Ability: Corrosion
 Level: 100
-Modest Nature  
-IVs: 14 Atk / 25 SpA / 21 SpD  
+Modest Nature
+IVs: 14 Atk / 25 SpA / 21 SpD
 - Dragon Pulse
-- Flamethrower  
-- Toxic  
+- Flamethrower
+- Toxic
 - Venoshock
 (Medium Fast)()
-Leo (Incineroar) (M)
-Ability: Blaze  
+**Leo** (Incineroar) (M)
+Ability: Blaze
 Level: 100
-Adamant Nature  
-IVs: 22 HP / 25 Atk / 21 Def / 23 SpA / 22 Spe  
+Adamant Nature
+IVs: 22 HP / 25 Atk / 21 Def / 23 SpA / 22 Spe
 - Darkest Lariat
-- Outrage  
+- Outrage
 - Flare Blitz
 - Thrash
 (Medium Slow)()
-Torterra (M)  
-Ability: Battle Armor  
+**Torterra** (M)
+Ability: Battle Armor
 Level: 100
-Brave Nature  
-IVs: 23 HP / 27 Atk / 22 Def / 20 SpA / 22 SpD / 22 Spe  
-- Energy Ball  
-- Crunch  
+Brave Nature
+IVs: 23 HP / 27 Atk / 22 Def / 20 SpA / 22 SpD / 22 Spe
+- Energy Ball
+- Crunch
 - Earthquake
 - Rock Slide
 (Medium slow)(2932)
-Emboar (M)
-Ability: Adaptability  
+**Emboar** (M)
+Ability: Adaptability
 Level: 200
 EVs: 252 Atk / 252 Spe
-Lonely Nature  
-IVs: 26 HP / 25 Def / 30 SpA / 20 SpD / 28 Spe  
-- Heat Crash  
+Lonely Nature
+IVs: 26 HP / 25 Def / 30 SpA / 20 SpD / 28 Spe
+- Heat Crash
 - Head Smash
 - Flare Blitz
 - Arm Thrust
 (Medium Slow)(2440)
-Team 17:
-Camerupt (M)  
+**Team 17:**
+**Camerupt** (M)
 Ability: Magma Armor
 Level: 100
-Quiet Nature  
-IVs: 24 HP / 30 Atk / 25 Def / 24 SpA / 27 SpD / 27 Spe  
-- Flamethrower  
-- Earth Power  
-- Ancient Power  
+Quiet Nature
+IVs: 24 HP / 30 Atk / 25 Def / 24 SpA / 27 SpD / 27 Spe
+- Flamethrower
+- Earth Power
+- Ancient Power
 - Yawn
 (Medium Fast)()
-Hawlucha (M)  
+**Hawlucha** (M)
 Ability: Unburden
 Level: 100
-Adamant Nature  
+Adamant Nature
 IVs: 25 Def
 - Acrobatics
 - Swords Dance
 - Poison Jab
 - High Jump Kick
 (Medium Fast)(///29,701)
-Greninja (M)  
-Ability: Torrent  
+**Greninja** (M)
+Ability: Torrent
 Level: 100
-Timid Nature  
-IVs: 25 HP / 26 Atk / 24 Def / 25 SpA / 21 SpD / 24 Spe  
+Timid Nature
+IVs: 25 HP / 26 Atk / 24 Def / 25 SpA / 21 SpD / 24 Spe
 - Extrasensory
-- Scald 
+- Scald
 - Dark Pulse
 - Ice Beam
 (Medium Slow)(892)
-Zebstrika  (F)
-Ability: Motor Drive  
+**Zebstrika (F)**
+Ability: Motor Drive
 Level: 100
-Adamant Nature  
-IVs: 21 HP  / 29 Def / 20 SpA / 24 SpD / 27 Spe  
-- Thrash  
-- Wild Charge  
-- Flame Charge  
+Adamant Nature
+IVs: 21 HP / 29 Def / 20 SpA / 24 SpD / 27 Spe
+- Thrash
+- Wild Charge
+- Flame Charge
 - Stomp
 (Medium Fast)()
-Gurdurr (M)  
-Ability: Iron Fist  
+**Gurdurr** (M)
+Ability: Iron Fist
 Level: 100
-EVs: 252 Def  
-Relaxed Nature  
-IVs: 23 HP / 29 Atk / 29 Def / 29 SpA / 25 SpD / 27 Spe  
-- Drain Punch  
-- Detect  
-- Bulk Up  
+EVs: 252 Def
+Relaxed Nature
+IVs: 23 HP / 29 Atk / 29 Def / 29 SpA / 25 SpD / 27 Spe
+- Drain Punch
+- Detect
+- Bulk Up
 - Stone Edge
 (Medium Slow)(///32,757)
-Pikachu (M) @ Light Ball  
-Ability: Lightning Rod  
+**Pikachu** (M) @ Light Ball
+Ability: Lightning Rod
 Level: 100
-Mild Nature  
-IVs: 30 HP / 22 Atk / 29 Def / 25 SpA / 25 SpD  
-- Wild Charge  
-- Thunderbolt  
-- Electro Ball  
+Mild Nature
+IVs: 30 HP / 22 Atk / 29 Def / 25 SpA / 25 SpD
+- Wild Charge
+- Thunderbolt
+- Electro Ball
 - Agility
 (Medium Fast)()
-Team 18:
-Swanna (F)  
-Ability: Keen Eye  
+**Team 18:**
+**Swanna** (F)
+Ability: Keen Eye
 Level: 100
-Modest Nature  
-IVs: 20 HP / 27 Atk / 29 Def / 24 SpA / 27 SpD / 27 Spe  
-- Hurricane  
-- Tailwind  
-- Rain Dance  
+Modest Nature
+IVs: 20 HP / 27 Atk / 29 Def / 24 SpA / 27 SpD / 27 Spe
+- Hurricane
+- Tailwind
+- Rain Dance
 - Roost
 (Medium Fast)
-Venomoth (M)  
+**Venomoth** (M)
 Ability: Shield Dust
 Level: 100
-Modest Nature  
-IVs: 25 HP / 20 Atk / 22 Def / 29 SpA / 28 SpD / 22 Spe  
-- Psychic  
-- Poison Fang  
+Modest Nature
+IVs: 25 HP / 20 Atk / 22 Def / 29 SpA / 28 SpD / 22 Spe
+- Psychic
+- Poison Fang
 - Quiver Dance
 - Bug Buzz
 (Medium Fast)()
-Reigh (Lucario) (M)
+**Reigh** (Lucario) (M)
 Ability: Inner Focus
 Level: 101
 EVs: 252 HP
 Jolly Nature
 IVs: 21 HP / 30 Atk / 20 Def / 23 SpA / 30 SpD / 27 Spe
-- High Jump Kick 
+- High Jump Kick
 - Brick Break
 - Aura Sphere
 - Round
 (Medium Slow)(///32,757)
-Volcarona (M)
-Ability: Swarm  
+**Volcarona** **(M)**
+Ability: Swarm
 Level: 100
-Shiny: Albino  
-Timid Nature  
+Shiny: Albino
+Timid Nature
 IVs: 28 Def / 26 SpA / 22 SpD
 - Fiery Dance
 - Quiver Dance
 - Absorb
 - Bug Buzz
 (Slow)()
-Heracross (M) 
-Ability: Moxie  
+**Heracross** (M)
+Ability: Moxie
 Level: 100
 Shiny: Albino
-Jolly Nature  
-IVs: 22 Def / 21 SpA / 27 Spe  
-- Bullet Seed  
+Jolly Nature
+IVs: 22 Def / 21 SpA / 27 Spe
+- Bullet Seed
 - Megahorn
 - Close Combat
 - Aerial Ace
 (Slow)()
-Seviper (F) (ME)
+**Seviper** (F) (ME)
 Ability: Shed Skin
 Level: 100
 EVs: 252 Atk / 252 SpA
@@ -1124,10 +1124,10 @@ IVs: 23 HP / 26 Atk / 20 Def / 21 SpA / 25 SpD / 21 Spe
 - Flamthrower
 - Crunch
 - Night Slash
-- Poison Fang 
+- Poison Fang
 (Fluctuating)(1250)
-Team 19:
-Aerodactyl (M) 
+**Team 19:**
+**Aerodactyl** (M)
 Ability: Rock Head
 Level: 100
 Adamant Nature
@@ -1137,7 +1137,7 @@ IVs: 29 HP / 28 Atk / 26 SpA / 24 SpD / 23 Spe
 - Rock Slide
 - Crunch
 (Slow)(///37,127)
-Shieldon (F) 
+**Shieldon** (F)
 Ability: Sturdy
 Level: 100
 Relaxed Nature
@@ -1147,7 +1147,7 @@ IVs: 26 HP / 24 Atk / 29 Def / 28 SpD / 27 Spe
 - Taunt
 - Metal Burst
 (Erratic)(///18,309)
-Kabutops (M)
+**Kabutops** (M)
 Ability: Swift Swim
 Level: 100
 Adamant Nature
@@ -1157,7 +1157,7 @@ IVs: 25 Atk / 27 Def / 30 SpA / 24 SpD
 - Mega Drain
 - Slash
 (Medium Fast)()
-Toucannon (F)
+**Toucannon** **(F)**
 Ability: Keen Eye
 Level: 100
 Adamant Nature
@@ -1167,7 +1167,7 @@ IVs: 24 HP / 27 Atk / 29 Def / 30 SpA / 27 SpD / 29 Spe
 - Screech
 - Bullet Seed
 (Medium Fast)()
-Butterfree (F)
+**Butterfree** (F)
 Ability: Compound Eyes
 Level: 100
 Timid Nature
@@ -1177,7 +1177,7 @@ IVs: 21 HP / 21 Atk / 24 Def / 20 SpA / 30 SpD / 29 Spe
 - Bug Buzz
 - Air Slash
 (Medium Fast)(///29,701)
-Swellow (F)
+**Swellow** (F)
 Ability: Speed Formation
 Level: 202
 EVs: 252 Atk / 252 SpA
@@ -1186,20 +1186,20 @@ IVs: 29 HP / 20 Atk / 27 SpA / 30 SpD / 29 Spe
 - Air Slash
 - Endeavor
 - Brave Bird
-- Reversal 
+- Reversal
 (Medium Slow)(///32,757)
-Team 20:
-Shedinja
+**Team 20:**
+**Shedinja**
 Ability: Wonder Guard
 Level: 100
 Adamant Nature
-IVs: 29 HP  / 25 Def / 26 SpA / 27 SpD
+IVs: 29 HP / 25 Def / 26 SpA / 27 SpD
 - Metal Claw
 - Double-Team
 - Fury Cutter
 - Dig
 (Erratic)()
-Raticate (M)
+**Raticate** (M)
 Ability: Guts
 Level: 100
 Adamant Nature
@@ -1209,7 +1209,7 @@ IVs: 25 HP / 26 Def / 30 SpA / 29 SpD / 25 Spe
 - Crunch
 - Double Edge
 (Medium Fast)()
-Cinderace (M)
+**Cinderace** (M)
 Ability: Libero
 Level: 100
 Gentle Nature
@@ -1219,7 +1219,7 @@ IVs: 5 SpA / 9 SpD
 - Pyroball
 - Counter
 (Medium Slow)()
-Beedrill (M)
+**Beedrill** **(M)**
 Ability: Swarm
 Level: 100
 Jolly Nature
@@ -1229,7 +1229,7 @@ IVs: 27 HP / 27 Atk / 28 Def / 22 SpA / 20 SpD
 - Pin Missile
 - Poison Jab
 (Medium Fast)(///29,701)
-Sawk
+**Sawk**
 Ability: Sturdy
 Level: 100
 Jolly Nature
@@ -1238,7 +1238,7 @@ Jolly Nature
 - Reversal
 - Close Combat
 (Medium Fast)()
-Watchog (M) WORK ON
+**Watchog** (M) WORK ON
 Ability: Analytic
 Level: 100
 Brave Nature
@@ -1248,8 +1248,8 @@ IVs: 23 HP / 6 Atk / 19 Def / 12 SpA / 16 SpD / 24 Spe
 - Hypnosis
 - Hyper Fang
 (Medium Fast)()
-Team 21:
-Hitmonchan
+**Team 21:**
+**Hitmonchan**
 Ability: Iron Fist
 Level: 100
 Adamant Nature
@@ -1259,7 +1259,7 @@ IVs: 20 HP / 20 Atk / 21 Def / 25 SpA / 23 SpD / 24 Spe
 - Ice Punch
 - Close Combat
 (Medium Fast)()
-Beedrill (F)
+**Beedrill** (F)
 Ability: Sniper
 Level: 100
 Adamant Nature
@@ -1269,7 +1269,7 @@ IVs: 24 HP / 26 Atk / 28 Def / 23 SpA / 20 SpD / 22 Spe
 - Pin Missile
 - Poison Jab
 (Medium Fast)()
-Hitmonlee
+**Hitmonlee**
 Ability: Reckless
 Level: 100
 Jolly Nature
@@ -1277,9 +1277,9 @@ IVs: 25 HP / 28 Def / 24 SpA / 21 SpD / 21 Spe
 - Fake Out
 - Foresight
 - High Jump Kick
-- Blaze Kick 
+- Blaze Kick
 (Medium Fast)()
-Pidgeot (F)
+**Pidgeot** (F)
 Ability: Keen Eye
 Level: 100
 Timid Nature
@@ -1289,7 +1289,7 @@ IVs: 29 HP / 19 Atk / 29 Def / 30 SpA / 29 SpD
 - Mirror Move
 - Work Up
 (Medium Slow)()
-Decidueye (M)
+**Decidueye** (M)
 Ability: Overgrow
 Level: 100
 Adamant Nature
@@ -1299,7 +1299,7 @@ IVs: 27 HP / 28 Atk / 22 Def / 28 SpA / 28 SpD
 - Spirit Shackle
 - Brave Bird
 (Medium Slow)()
-Hitmontop
+**Hitmontop**
 Ability: Intimidate
 Level: 100
 Adamant Nature
@@ -1309,8 +1309,8 @@ IVs: 25 Atk / 27 Def / 27 SpA / 26 SpD / 23 Spe
 - Fake Out
 - Close Combat
 (Medium Fast)()
-Team 22:
-Jumpluff (F)
+**Team 22:**
+**Jumpluff** (F)
 Ability: Infiltrator
 Level: 100
 Timid Nature
@@ -1320,7 +1320,7 @@ IVs: 28 HP / 20 Atk / 28 Def / 22 SpA / 22 SpD / 30 Spe
 - Confusion
 - Cotton Guard
 (Medium Slow)()
-Meowstic (M) @ Light Clay
+**Meowstic** (M) @ Light Clay
 Ability: Own Tempo
 Level: 100
 Mild Nature
@@ -1328,19 +1328,19 @@ IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 21 SpD / 29 Spe
 - Psyshock
 - Disarming Voice
 - Light Screen
-- Reflect 
+- Reflect
 (Medium Fast)()
-Gyarados (F) Naga(Top) WORK ON
+**Gyarados** (F) [Naga(Top)](https://e621.net/post/show/875967/2016-anthro-anthrofied-areola-big_areola-big_breas) WORK ON
 Ability: Swift Swim
 Level: 100
 Adamant Nature
 IVs: 29 HP / 24 Atk / 8 Def / 16 SpA / 14 SpD / 11 Spe
 - Waterfall
 - Earthquake
-- Flail 
+- Flail
 - Bite
 (Slow)(///37,172)
-Pachirisu (M)
+**Pachirisu** (M)
 Ability: Pickup
 Level: 100
 Calm Nature
@@ -1348,9 +1348,9 @@ IVs: 30 Atk / 21 Def / 27 SpA / 25 SpD / 22 Spe
 - Super Fang
 - Sweet Kiss
 - Nuzzle
-- Volt Switch 
+- Volt Switch
 (Medium Fast)(///29,701)
-Venomoth (F)
+**Venomoth** (F)
 Ability: Run Away
 Level: 100
 Timid Nature
@@ -1358,20 +1358,20 @@ IVs: 23 HP / 25 Atk / 29 Def / 25 SpA
 - Psychic
 - Poison Fang
 - Quiver Dance
-- Bug Buzz 
+- Bug Buzz
 (Medium Fast)()
-Sunflora (F)
+**Sunflora** (F)
 Ability: Chlorophyll
 Level: 100
 Timid Nature
-IVs: 27 HP  / 25 Def
+IVs: 27 HP / 25 Def
 - Ingrain
 - Grass Whistle
 - Giga Drain
-- Leech Seed 
+- Leech Seed
 (Medium Slow)()
-Team 23:
-Claydol WORK ON
+**Team 23:**
+**Claydol** **WORK ON**
 Ability: Levitate
 Level: 100
 Timid Nature
@@ -1379,9 +1379,9 @@ IVs: 6 Atk / 28 Def / 15 SpA / 22 SpD / 25 Spe
 - Ice Beam
 - Earth Power
 - Psychic
-- Stealth Rock 
+- Stealth Rock
 (Medium Fast)()
-Swanna (M) 
+**Swanna** (M)
 Ability: Hydration
 Level: 100
 Calm Nature
@@ -1389,9 +1389,9 @@ IVs: 28 SpA
 - Hurricane
 - Scald
 - Rest
-- Rain Dance 
+- Rain Dance
 (Medium Slow)()
-Gliscor (M)
+**Gliscor** (M)
 Ability: Poison Heal
 Level: 100
 Jolly Nature
@@ -1399,9 +1399,9 @@ IVs: 24 Def / 24 SpD / 26 Spe
 - Swords Dance
 - X-Scissor
 - Acrobatics
-- Earthquake 
+- Earthquake
 (Medium Slow)(1714)
-Magmar (M) WORK ON
+**Magmar** (M) WORK ON
 Ability: Drought
 Level: 150
 EVs: 252 SpA / 252 Spe
@@ -1410,10 +1410,10 @@ IVs: 24 HP / 3 Def / 27 SpD / 6 Spe
 - Lava Plume
 - Sunny Day
 - Flamethrower
-- Fire Blast 
+- Fire Blast
 -
 (Medium Fast)(///29,701)
-Mewtwo (F)
+**Mewtwo** (F)
 Ability: Psychic Surge
 Level: 150
 EVs: 4 HP / 252 SpA / 252 Spe
@@ -1424,7 +1424,7 @@ Timid Nature
 - Psystrike
 -
 (Slow)(///37,127)
-Greninja (F)
+**Greninja** (F)
 Ability: Torrent
 Level: 100
 Lonely Nature
@@ -1432,10 +1432,10 @@ IVs: 20 HP / 27 Def / 28 SpA / 20 SpD / 27 Spe
 - Night Slash
 - Waterfall
 - Rock Slide
-- Return 
+- Return
 (Medium Slow)(///32,757)
-Team 24:
-Kadabra (F)
+**Team 24:**
+**Kadabra** (F)
 Ability: Magic Guard
 Level: 100
 Modest Nature
@@ -1445,7 +1445,7 @@ IVs: 27 HP / 5 Atk / 19 Def / 27 SpA / 29 SpD / 26 Spe
 - Shadow Ball
 - Psyshock
 (Medium Slow)()
-Quagsire (M)
+**Quagsire** (M)
 Ability: Damp
 Level: 100
 Brave Nature
@@ -1453,9 +1453,9 @@ IVs: 25 HP / 20 Def / 28 SpA / 26 SpD / 27 Spe
 - Earthquake
 - Rain Dance
 - Muddy Water
-- Haze 
+- Haze
 (Medium Fast)(///29,701)
-Serperior (F) 
+**Serperior** (F)
 Ability: Overgrow
 Level: 100
 Modest Nature
@@ -1463,9 +1463,9 @@ IVs: 30 HP / 26 Atk / 27 Def / 29 SpA / 29 SpD / 20 Spe
 - Leaf Storm
 - Leaf Blade
 - Giga Drain
-- Coil 
+- Coil
 (Medium Slow)()
-Smeargle (F) @ Focus Sash (ME)
+**Smeargle** (F) @ Focus Sash (ME)
 Ability: Simple
 Level: 205
 EVs: Perf
@@ -1477,7 +1477,7 @@ Jolly Nature
 - Sketch
 - Sketch
 (Fast)(///23,761)
-Leavanny (F)
+**Leavanny** (F)
 Ability: Swarm
 Level: 100
 Jolly Nature
@@ -1485,9 +1485,9 @@ IVs: 23 Atk / 30 Def / 23 SpA / 28 SpD
 - X-Scissor
 - Leaf Blade
 - Air Slash
-- Electroweb 
+- Electroweb
 (Medium Slow)()
-Froslass
+**Froslass**
 Ability: Snow Cloak
 Level: 100
 Modest Nature
@@ -1497,8 +1497,8 @@ IVs: 6 Atk / 21 SpA / 28 SpD / 26 Spe
 - Water Pulse
 - Secret Power
 (Medium Fast)()
-Team 25:
-Huntail (F)
+**Team 25:**
+**Huntail** (F)
 Ability: Swift Swim
 Level: 100
 Jolly Nature
@@ -1506,19 +1506,19 @@ IVs: 21 HP / 21 Atk / 29 SpA / 30 SpD / 20 Spe
 - Crunch
 - Coil
 - Aqua Tail
-- Ice Fang  
+- Ice Fang
 (Erratic)()
-Noivern (M)  
-Ability: Infiltrator  
+**Noivern** (M)
+Ability: Infiltrator
 Level: 100
-Modest Nature  
-IVs: 24 HP  / 28 Def / 27 SpA / 24 SpD / 25 Spe  
-- Hurricane  
-- Leech Life  
-- Dark Pulse  
+Modest Nature
+IVs: 24 HP / 28 Def / 27 SpA / 24 SpD / 25 Spe
+- Hurricane
+- Leech Life
+- Dark Pulse
 - Psychic
 (Medium Fast)(///29,701)
-Ludicolo (M)
+**Ludicolo** (M)
 Ability: Own Tempo
 Level: 100
 Modest Nature
@@ -1526,19 +1526,19 @@ IVs: 26 HP / 23 Atk / 29 Def / 29 SpA / 22 SpD / 25 Spe
 - Giga Drain
 - Rain Dance
 - Hydro Pump
-- Nature Power 
+- Nature Power
 (Medium Slow)()
-Graveler (M)
-Ability: Sturdy  
+**Graveler** (M)
+Ability: Sturdy
 Level: 100
-Adamant Nature  
-IVs: 26 Atk / 25 Def / 29 SpA / 26 SpD / 20 Spe  
-- Stone Edge  
-- Double-Edge  
+Adamant Nature
+IVs: 26 Atk / 25 Def / 29 SpA / 26 SpD / 20 Spe
+- Stone Edge
+- Double-Edge
 - Gyro-Ball
 - Earthquake
 (Medium Slow)(252)
-Weezing (M)
+**Weezing** (M)
 Ability: Levitate
 Level: 100
 Quiet Nature
@@ -1546,29 +1546,29 @@ IVs: 25 HP / 20 Atk / 22 Def / 27 SpA / 28 Spe
 - Thunderbolt
 - Flamethrower
 - Sludge
-- Will-O-Wisp 
+- Will-O-Wisp
 (Medium Fast)()
-Dugtrio  (M)
-Ability: Arena Trap  
+**Dugtrio** (M)
+Ability: Arena Trap
 Level: 100
-Adamant Nature  
-IVs: 20 HP / 30 Def / 22 SpA / 26 Spe  
-- Fissure  
-- Earthquake  
-- Slash  
+Adamant Nature
+IVs: 20 HP / 30 Def / 22 SpA / 26 Spe
+- Fissure
+- Earthquake
+- Slash
 - Dig
 (Medium Fast)()
-Team 26:
-Lycanroc (M) (ME)
-Ability: Vital Spirit  
+**Team 26:**
+**Lycanroc** (M) (ME)
+Ability: Vital Spirit
 Level: 100
-Jolly Nature  
-- Stone Edge  
+Jolly Nature
+- Stone Edge
 - Brick Break
-- Crunch  
+- Crunch
 - Accelrock
 (Medium Fast)()
-Torterra (M)
+**Torterra** (M)
 Ability: Overgrow
 Level: 100
 Adamant Nature
@@ -1576,9 +1576,9 @@ IVs: 22 HP / 28 Atk / 26 Def / 21 SpA / 24 SpD / 29 Spe
 - Sand Tomb
 - Bullet Seed
 - Leech Seed
-- Crunch 
+- Crunch
 (Medium Slow)(///32,757)
-Probopass (M)
+**Probopass** (M)
 Ability: Sand Force
 Level: 100
 Shiny: Shiny
@@ -1589,7 +1589,7 @@ IVs: 22 HP / 18 Atk / 2 Spe
 - Discharge
 - Earth Power
 (Medium Fast)(///29,701)
-Mimikyu (F) (ME)
+**Mimikyu** (F) (ME)
 Ability: Disguise
 Level: 100
 EVs: 252 Atk / 252 Spe
@@ -1600,7 +1600,7 @@ IVs: 26 HP / 26 Atk / 26 Def / 19 SpA / 23 SpD / 28 Spe
 - Play Rough
 - Hone Claws
 (Medium Fast)()
-Mawile (F)
+**Mawile** (F)
 Ability: Defiant> Strong Jaw
 Level: 150
 EVs: 252 Atk / 252 Def
@@ -1612,7 +1612,7 @@ IVs: 21 HP / 23 Atk / 24 Def / 21 SpA / 22 SpD / 24 Spe
 - Play Rough
 -
 (Fast)(///23,761)
-Infernape (M) 
+**Infernape** (M)
 Ability: Iron Fist
 Level: 100
 Naughty Nature
@@ -1620,10 +1620,10 @@ IVs: 23 HP / 28 Atk / 20 Def / 24 SpA / 27 SpD / 24 Spe
 - Thunder Punch
 - Power-Up Punch
 - Fire Punch
-- Gunk Shot 
+- Gunk Shot
 (Medium Slow)(///32,757)
-Team 27:
-Pumpkaboo-Small (M)
+**Team 27:**
+**Pumpkaboo-Small** (M)
 Ability: Insomnia
 Level: 100
 Jolly Nature
@@ -1631,21 +1631,21 @@ IVs: 27 HP / 21 Atk / 26 Def / 20 SpA / 21 SpD / 30 Spe
 - Seed Bomb
 - Pain Split
 - Shadow Ball
-- Trick-or-Treat 
+- Trick-or-Treat
 (Medium Fast)()
-13 (Ariados) (M) (ME)
-Ability: Sniper  
+**13** (Ariados) (M) (ME)
+Ability: Sniper
 Level: 43
 Shiny: Shiny
-EVs: 252 Atk  
-Naive Nature  
-IVs: 23 HP / 28 Atk / 26 Def / 29 SpA / 25 SpD / 21 Spe  
-- Agility  
-- Sucker Punch  
+EVs: 252 Atk
+Naive Nature
+IVs: 23 HP / 28 Atk / 26 Def / 29 SpA / 25 SpD / 21 Spe
+- Agility
+- Sucker Punch
 - Toxic Thread
 - Cross Poison
 (Fast)()
-Drifblim (M)
+**Drifblim** (M)
 Ability: Flare Boost
 Level: 100
 Shiny: Albino
@@ -1653,9 +1653,9 @@ Naive Nature
 - Calm Mind
 - Minimize
 - Shadow Ball
-- Thunderbolt 
+- Thunderbolt
 (Fluctuating)(///47,153)
-Cryogonal
+**Cryogonal**
 Ability: Levitate
 Level: 100
 Timid Nature
@@ -1663,50 +1663,50 @@ IVs: 21 HP / 27 Atk / 21 Def / 25 SpA / 24 SpD / 28 Spe
 - Ice Beam
 - Freeze-Dry
 - Recover
-- Acid Armor 
+- Acid Armor
 (Medium Fast)()
-Kingler (M)  
-Ability: Sheer Force  
+**Kingler** (M)
+Ability: Sheer Force
 Level: 100
-Jolly Nature  
-IVs: 29 HP / 25 Atk / 28 Def / 21 SpA / 25 SpD / 29 Spe  
+Jolly Nature
+IVs: 29 HP / 25 Atk / 28 Def / 21 SpA / 25 SpD / 29 Spe
 - Rock Slide
 - Guillotine
 - Crabhammer
 - Stomp
 (Medium Fast)(822)
-Murkrow (F)  
-Ability: Prankster  
+**Murkrow** (F)
+Ability: Prankster
 Level: 100
-Timid Nature  
-IVs: 30 HP / 24 Atk / 25 Def / 22 SpA / 26 SpD / 20 Spe  
+Timid Nature
+IVs: 30 HP / 24 Atk / 25 Def / 22 SpA / 26 SpD / 20 Spe
 - Tail Wind
 - Shadow Ball
-- Sucker Punch 
+- Sucker Punch
 - Wing Attack
 (Medium Slow)(139)
-Team 28:
-Oranguru (F)
+**Team 28**:
+**Oranguru** (F)
 Ability: Telepathy
 Level: 100
-Modest  Nature
+Modest Nature
 IVs: 22 HP / 8 Atk / 21 Def / 30 SpA / 26 SpD / 29 Spe
 - Psychic
 - Trick Room
 - Calm Mind
-- Foul Play 
+- Foul Play
 (Slow)()
-Cloyster (F)  
-Ability: Battle Armor  
+**Cloyster** (F)
+Ability: Battle Armor
 Level: 100
-Modest Nature  
-IVs: 23 HP / 23 Atk / 26 Def / 29 SpA / 27 SpD  
-- Protect  
-- Aurora Beam  
-- Clamp  
+Modest Nature
+IVs: 23 HP / 23 Atk / 26 Def / 29 SpA / 27 SpD
+- Protect
+- Aurora Beam
+- Clamp
 - Razor Shell
 (Slow)(102)
-Diz (Zoroark) (H)
+**Diz** (Zoroark) (H)
 Ability: Illusion
 Level: 100
 EVs: 4 HP / 252 SpA / 252 Spe
@@ -1717,7 +1717,7 @@ IVs: 30 Atk / 30 Def
 - Extrasensory
 - Hidden Power [Ice]
 (Medium Slow)(///32,757)
-Graveler-Alola (F) @ Life Orb
+**Graveler-Alola** (F) @ Life Orb
 Ability: Galvanize
 Level: 100
 Shiny: Shiny
@@ -1727,7 +1727,7 @@ Adamant Nature
 - Earthquake
 - Thunder Punch
 (Medium Slow)()
-Cherim (M)
+**Cherim** (M)
 Ability: Chlorophyll
 Level: 100
 Timid Nature
@@ -1737,7 +1737,7 @@ IVs: 23 HP / 20 Atk / 24 Def / 25 SpD / 27 Spe
 - Sunny Day
 - Lucky Chant
 (Medium Fast)()
-Solrock
+**Solrock**
 Ability: Levitate
 Level: 100
 Jolly Nature
@@ -1747,8 +1747,8 @@ IVs: 21 HP / 29 Atk / 30 Def / 25 SpA / 23 SpD / 20 Spe
 - Psychic
 - Stone Edge
 (Fast)()
-Team 29:
-Terra (Rhydon) (F) Anthro
+**Team 29**:
+**Terra** (Rhydon) (F) [Anthro](https://e621.net/post/show/1066305/2016-2_toes-anthro-anthrofied-areola-beige_pussy-b)
 Ability: Dry Skin
 Level: 201
 EVs: Perf
@@ -1760,7 +1760,7 @@ Careful Nature
 - Poison Jab
 - Shadow Claw
 (Slow)(///37,127)
-Purugly (M) 
+**Purugly** (M)
 Ability: Own Tempo
 Level: 100
 Lonely Nature
@@ -1768,39 +1768,39 @@ IVs: 26 HP / 20 SpA / 22 SpD
 - Last Resort
 - Play Rough
 - Sucker Punch
-- Fake Out 
+- Fake Out
 (Fast)()
-Machamp (M)
-Ability: Steadfast  
+**Machamp** (M)
+Ability: Steadfast
 Level: 100
-Adamant Nature  
-IVs: 27 Atk / 25 Def / 28 SpA / 25 SpD / 27 Spe  
-- Focus Energy  
+Adamant Nature
+IVs: 27 Atk / 25 Def / 28 SpA / 25 SpD / 27 Spe
+- Focus Energy
 - Dual Chop
 - Cross Chop
 - Knock Off
 (Medium Slow)()
-Brick (Golisopod) (M)
+**Brick** (Golisopod) (M)
 Ability: Emergency Exit
 Level: 100
-Hasty Nature  
-IVs: 26 HP / 25 Atk / 26 SpA / 26 SpD / 25 Spe  
+Hasty Nature
+IVs: 26 HP / 25 Atk / 26 SpA / 26 SpD / 25 Spe
 - Liquidation
 - Iron Defense
 - First Impression
 - Sucker Punch
 (Medium Fast)()
-Mightyena (F)
+**Mightyena** (F)
 Ability: Moxie
 Level: 100
-Lonely Nature  
-IVs: 24 HP / 24 Atk / 28 SpA / 28 SpD / 25 Spe  
-- Swagger  
+Lonely Nature
+IVs: 24 HP / 24 Atk / 28 SpA / 28 SpD / 25 Spe
+- Swagger
 - Play Rough
-- Odor Sleuth  
+- Odor Sleuth
 - Crunch
 (Medium Fast)()
-Feraligatr (F)
+**Feraligatr** (F)
 Ability: Sheer Force
 Level: 100
 Naughty Nature
@@ -1808,10 +1808,10 @@ IVs: 26 Atk / 22 Def / 22 SpA / 25 SpD / 25 Spe
 - Waterfall
 - Body Slam
 - Ancient Power
-- Ice Beam 
+- Ice Beam
 (Medium Slow)(///32,757)
-Team 30:
-Toxicroak (M)
+**Team 30:**
+**Toxicroak** (M)
 Ability: Anticipation
 Level: 100
 Shiny: Shiny
@@ -1820,9 +1820,9 @@ IVs: 22 Atk / 25 Def
 - Earthquake
 - Stone Edge
 - Brick Break
-- Poison Jab 
+- Poison Jab
 (Medium Fast)()
-Delphox (M)
+**Delphox** (M)
 Ability: Magician
 Level: 100
 Timid Nature
@@ -1830,9 +1830,9 @@ IVs: 22 HP / 26 Atk / 26 Def / 29 SpA / 29 Spe
 - Lucky Chant
 - Mystical Fire
 - Foul Play
-- Wish 
+- Wish
 (Medium Slow)()
-Maractus (M)
+**Maractus** (M)
 Ability: Chlorophyll
 Level: 100
 Hasty Nature
@@ -1840,9 +1840,9 @@ IVs: 23 HP / 27 Atk / 24 Def / 29 SpA / 19 SpD / 30 Spe
 - Petal Blizzard
 - Sunny Day
 - Sucker Punch
-- Petal Dance 
+- Petal Dance
 (Medium Fast)()
-Galvantula (F) 
+**Galvantula** (F)
 Ability: Compound Eyes
 Level: 100
 EVs: 252 Atk / 252 Spe
@@ -1851,9 +1851,9 @@ IVs: 21 HP / 26 Atk / 22 Def / 29 SpD / 30 Spe
 - Thief
 - X-Scissor
 - Wild Charge
-- Poison Jab 
+- Poison Jab
 (Medium Fast)()
-Tropius (M) 
+**Tropius** (M)
 Ability: Solar Power
 Level: 100
 Modest Nature
@@ -1863,7 +1863,7 @@ IVs: 26 HP / 26 Atk / 21 Def / 27 SpA / 30 SpD / 24 Spe
 - Air Cutter
 - Energy Ball
 (Slow)()
-Leafeon (M) (ME)
+**Leafeon** (M) (ME)
 Ability: Chlorophyll
 Level: 100
 EVs: 252 Atk / 252 Spe
@@ -1872,20 +1872,20 @@ IVs: 25 HP / 25 Atk / 24 Def / 24 SpA / 23 SpD / 28 Spe
 - Leaf Blade
 - Knock Off
 - Rock Smash
-- X-Scissor 
+- X-Scissor
 (Medium Fast)()
-Team 31:
-Primarina (F)  (ME) Style
-Ability: Liquid Voice  
+**Team 31:**
+**Primarina** (F) (ME) [Style](https://e621.net/post/show/1503183/blue_eyes-blue_hair-blush-breasts-featureless_brea)
+Ability: Liquid Voice
 Level: 100
-Modest Nature  
-IVs: 20 HP / 23 Atk / 25 Def / 23 SpA / 23 Spe  
-- Sparkling Aria  
-- Hyper Voice  
+Modest Nature
+IVs: 20 HP / 23 Atk / 25 Def / 23 SpA / 23 Spe
+- Sparkling Aria
+- Hyper Voice
 - Moonblast
 - Baby-Doll Eyes
 (Medium Slow)()
-Mudsdale (F)
+**Mudsdale** (F)
 Ability: Stamina
 Level: 100
 Adamant Nature
@@ -1893,9 +1893,9 @@ IVs: 21 HP / 22 Def / 8 SpA / 25 SpD / 16 Spe
 - Counter
 - Heavy Slam
 - Earthquake
-- Iron Defense 
+- Iron Defense
 (Medium Fast)()
-Pangoro (M)
+**Pangoro** (M)
 Ability: Mold Breaker
 Level: 100
 Adamant Nature
@@ -1903,9 +1903,9 @@ IVs: 26 HP / 29 Atk / 23 Def / 24 SpA / 24 SpD
 - Power Trip
 - Power-Up Punch
 - Bullet Punch
-- Ice Punch 
+- Ice Punch
 (Medium Fast)()
-Manectric (F) @ Choice Scarf
+**Manectric** (F) @ Choice Scarf
 Ability: Static
 Level: 100
 EVs: 252 Spe
@@ -1916,7 +1916,7 @@ IVs: 23 HP / 23 Atk / 29 Def / 24 SpA / 21 SpD / 30 Spe
 - Signal Beam
 - Volt Switch
 (Slow)(///37,127)
-Passimian (M)
+**Passimian** (M)
 Ability: Receiver
 Level: 100
 Jolly Nature
@@ -1924,9 +1924,9 @@ IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
 - Close Combat
 - Acrobatics
 - Iron Head
-- U-turn 
+- U-turn
 (Slow)()
-Cereza (Salazzle) (ME) WORK ON
+**Cereza** (Salazzle) (ME) **WORK ON**
 Ability: Corrosion
 Level: 100
 EVs: 252 SpA / 252 Spe
@@ -1934,11 +1934,11 @@ Timid Nature
 IVs: 28 HP / 28 Atk / 25 Def / 30 SpA / 24 SpD / 27 Spe
 - Dragon Pulse
 - Flamethrower
-- Venoshock 
+- Venoshock
 - Phero Gas
 (Medium Fast)()
-Team 32:
-Decidueye (F) 
+**Team 32:**
+**Decidueye** (F)
 Ability: Long Reach
 Level: 100
 Adamant Nature
@@ -1948,17 +1948,17 @@ IVs: 27 HP / 27 Atk / 25 Def / 25 SpA / 29 Spe
 - Synthesis
 - Leaf Blade
 (Medium Slow)()
-Luka (Salandit) (M)
+**Luka** (Salandit) (M)
 Ability: Corrosion
 Level: 100
 Hasty Nature
-IVs: 28 HP  / 29 Def / 21 SpA / 23 SpD
+IVs: 28 HP / 29 Def / 21 SpA / 23 SpD
 - Dragon Pulse
 - Venom Drench
 - Venoshock
-- Flamethrower 
+- Flamethrower
 (Medium Fast)()
-Musharna (F) @ Rocky Helmet
+**Musharna** (F) @ Rocky Helmet
 Ability: Synchronize
 Level: 100
 EVs: 252 HP / 4 Def / 252 SpA
@@ -1967,40 +1967,40 @@ IVs: 26 HP / 28 Atk / 25 Def / 28 SpA / 26 Spe
 - Moonlight
 - Psyshock
 - Dazzling Gleam
-- Defense Curl 
+- Defense Curl
 (Fast)(///23,761)
-Pidgeot (M)
-Ability: Tangled Feet  
+**Pidgeot** (M)
+Ability: Tangled Feet
 Level: 100
-Modest Nature  
-IVs: 22 HP / 30 Atk / 22 Def / 30 SpA / 30 Spe  
+Modest Nature
+IVs: 22 HP / 30 Atk / 22 Def / 30 SpA / 30 Spe
 - Quick Attack
 - Twister
 - Air Slash
 - Hurricane
 (Medium Slow)()
-Boomer (Golisopod)  (M)
+**Boomer** (Golisopod) (M)
 Ability: Emergency Exit
 Level: 100
-Careful Nature  
-IVs: 25 HP / 21 Atk / 30 Def / 29 Spe  
+Careful Nature
+IVs: 25 HP / 21 Atk / 30 Def / 29 Spe
 - Liquidation
 - Iron Defense
 - First Impression
 - Sucker Punch
 (Medium Fast)()
-Butch (Golisopod) (M)
+**Butch** (Golisopod) (M)
 Ability: Emergency Exit
 Level: 100
-Adamant Nature  
-IVs: 23 HP / 29 Atk / 27 Def / 24 SpA / 25 SpD / 26 Spe  
+Adamant Nature
+IVs: 23 HP / 29 Atk / 27 Def / 24 SpA / 25 SpD / 26 Spe
 - Liquidation
 - Iron Defense
 - First Impression
 - Sucker Punch
 (Medium Fast)()
-Team 33:
-Metagross
+**Team 33:**
+**Metagross**
 Ability: Clear Body
 Level: 100
 Adamant Nature
@@ -2010,7 +2010,7 @@ IVs: 26 HP / 29 SpA / 27 Spe
 - Hold Back
 - Brick Break
 (Slow)(///37,127)
-Panpour (F)
+**Panpour** (F)
 Ability: Gluttony
 Level: 100
 Timid Nature
@@ -2018,9 +2018,9 @@ IVs: 25 HP / 20 Atk / 20 Def / 21 SpA / 25 SpD / 23 Spe
 - Nasty Plot
 - Scald
 - Hidden Power [Bug]
-- Ice Beam 
+- Ice Beam
 (Medium Fast)()
-Absol (F) @ Absolite
+**Absol** (F) @ Absolite
 Ability: Pressure
 Level: 100
 Jolly Nature
@@ -2028,9 +2028,9 @@ IVs: 22 HP / 28 Atk / 24 Def / 22 SpA / 28 Spe
 - Night Slash
 - Megahorn
 - Rock Slide
-- Swords Dance 
+- Swords Dance
 (Medium Slow)(///32,757)
-Maractus (M)
+**Maractus** (M)
 Ability: Storm Drain
 Level: 100
 Quiet Nature
@@ -2039,7 +2039,7 @@ Quiet Nature
 - Solar Beam
 - Petal Blizzard
 (Medium Fast)()
-Escavalier (M)
+**Escavalier** (M)
 Ability: Battle Armor
 Level: 100
 Brave Nature
@@ -2047,9 +2047,9 @@ IVs: 29 HP / 28 Atk / 25 SpA / 26 SpD / 2 Spe
 - Poison Jab
 - X-Scissor
 - Aerial Ace
-- Drill Run 
+- Drill Run
 (Medium Fast)(///29,701)
-Lucas(Lucario) (M) (ME)
+**Lucas**(Lucario) (M) (ME)
 Ability: Justified
 Level: 100
 EVs: 252 Atk / 252 Spe
@@ -2058,10 +2058,10 @@ IVs: 26 HP / 27 Atk / 25 Def / 25 SpA / 26 SpD / 28 Spe
 - Bone Rush
 - Swords Dance
 - High Jump Kick
-- Laser Focus 
+- Laser Focus
 (Medium Slow)(///32,757)
-Team 34:
-Amoonguss (F)
+**Team 34:**
+**Amoonguss** (F)
 Ability: Regenerator
 Level: 100
 Quiet Nature
@@ -2069,40 +2069,40 @@ IVs: 24 HP / 28 Atk / 20 Def / 20 SpA / 22 SpD / 1 Spe
 - Giga Drain
 - Sludge Bomb
 - Spore
-- Foul Play 
+- Foul Play
 (Medium Fast)(///29,701)
-Kabutops (F)  
-Ability: Swift Swim  
+**Kabutops** (F)
+Ability: Swift Swim
 Level: 100
 Jolly Nature
-IVs: 23 HP / 26 Atk / 21 Def / 30 SpA / 23 SpD / 28 Spe  
-- Ancient Power  
+IVs: 23 HP / 26 Atk / 21 Def / 30 SpA / 23 SpD / 28 Spe
+- Ancient Power
 - Night Slash
-- Aqua Jet  
+- Aqua Jet
 - Stone Edge
 (Medium Fast)()
-Gorebyss (M) @ Damp Rock  
-Ability: Hydration  
+**Gorebyss** (M) @ Damp Rock
+Ability: Hydration
 Level: 100
-Jolly Nature  
-IVs: 27 HP / 25 Def / 22 SpA / 21 SpD / 29 Spe  
-- Rest  
-- Rain Dance  
-- Double Team  
+Jolly Nature
+IVs: 27 HP / 25 Def / 22 SpA / 21 SpD / 29 Spe
+- Rest
+- Rain Dance
+- Double Team
 - Ice Beam
 (Erratic)(///18,309)
-Alloy(Aggron) (F) (ME)  @ Aggronite Anthro
-Ability: Sturdy  
+**Alloy**(Aggron) (F) (ME) @ Aggronite [Anthro](https://78.media.tumblr.com/cf43ddf8af587f06a9bc4645a9b4b69c/tumblr_pal8n4eoQA1tdpo1ko1_1280.png)
+Ability: Sturdy
 Level: 100
 EVs: 252 HP / 252 SpD
-Careful Nature  
-IVs: 24 SpA / 28 Spe  
-- Metal Burst  
-- Iron Tail  
-- Brick Break  
+Careful Nature
+IVs: 24 SpA / 28 Spe
+- Metal Burst
+- Iron Tail
+- Brick Break
 - Earthquake
 (Slow)(///37,127)
-Dustox (F)
+**Dustox** (F)
 Ability: Shield Dust
 Level: 100
 Quirky Nature
@@ -2110,23 +2110,23 @@ IVs: 27 HP / 25 Atk / 29 Def / 22 SpA / 21 SpD / 26 Spe
 - Bug Bite
 - Sludge Bomb
 - Electroweb
-- String Shot 
+- String Shot
 (Medium Fast)()
-Star (Zoroark) (F) (ME)
-Ability: Illusion  
+**Star** (Zoroark) (F) (ME)
+Ability: Illusion
 Level: 200
 Shiny: Albino
-EVs: 252 Atk / 252 Spe  
-Adamant Nature  
-- Foul Play  
-- Swords Dance  
-- Rest  
+EVs: 252 Atk / 252 Spe
+Adamant Nature
+- Foul Play
+- Swords Dance
+- Rest
 - Aerial Ace
 - Facade
 - Shadow Ball
 (Medium Slow)(0//32,757)
-Team 35:
-Xurkitree
+**Team 35:**
+**Xurkitree**
 Ability: Beast Boost
 Level: 100
 Mild Nature
@@ -2136,7 +2136,7 @@ IVs: 8 SpA / 30 SpD / 23 Spe
 - Thunderbolt
 - Signal Beam
 (Slow)()
-Hypno (F)
+**Hypno** (F)
 Ability: Forewarn
 Level: 100
 Calm Nature
@@ -2144,9 +2144,9 @@ IVs: 27 HP / 15 Atk / 7 Def / 8 SpA / 27 SpD
 - Psychic
 - Nasty Plot
 - Psyshock
-- Future Sight 
+- Future Sight
 (Medium Fast)(///29,701)
-Sharpedo (M)
+**Sharpedo** (M)
 Ability: Speed Boost
 Level: 100
 Adamant Nature
@@ -2156,7 +2156,7 @@ IVs: 25 HP / 23 Def / 19 SpD / 27 Spe
 - Ice Fang
 - Crunch
 (Slow)()
-Pachirisu (M)
+**Pachirisu** (M)
 Ability: Volt Absorb
 Level: 101
 Bold Nature
@@ -2164,30 +2164,30 @@ IVs: 30 HP / 27 Atk / 29 Def / 25 SpA / 22 SpD / 21 Spe
 - Super Fang
 - Spark
 - Toxic
-- Sweet Kiss 
+- Sweet Kiss
 (Medium Fast)(///29,701)
-Yanmega (M)
-Ability: Speed Boost  
+**Yanmega** (M)
+Ability: Speed Boost
 Level: 100
-Modest Nature  
-IVs: 28 Atk / 22 Def / 25 SpA / 21 SpD / 24 Spe  
-- Bug Buzz  
-- Air Slash  
-- Screech  
+Modest Nature
+IVs: 28 Atk / 22 Def / 25 SpA / 21 SpD / 24 Spe
+- Bug Buzz
+- Air Slash
+- Screech
 - U-Turn
 (Medium Fast)()
-Kommo-o (F)
+**Kommo-o** (F)
 Ability: Soundproof
 Level: 100
 Modest Nature
-IVs: 24 HP / 20 Atk / 22 Def / 23 SpA /  28 Spe
+IVs: 24 HP / 20 Atk / 22 Def / 23 SpA / 28 Spe
 - Hidden Power [Electric]
 - Focus Blast
 - Clanging Scales
-- Earthquake 
+- Earthquake
 (Slow)(///37,127)
-Team 36:
-Mr. Mime (F)
+**Team 36**:
+**Mr. Mime** (F)
 Ability: Technician
 Level: 100
 Modest Nature
@@ -2195,9 +2195,9 @@ IVs: 25 HP / 30 Atk / 28 Def / 26 SpA / 26 SpD / 25 Spe
 - Hidden Power [Bug]
 - Charge Beam
 - Confusion
-- Icy Wind 
+- Icy Wind
 (Medium Fast)()
-Volbeat
+**Volbeat**
 Ability: Illuminate
 Level: 100
 Adamant Nature
@@ -2205,19 +2205,19 @@ IVs: 27 HP / 22 Atk / 26 Def / 23 SpA / 25 SpD / 30 Spe
 - U-turn
 - Acrobatics
 - Power-Up Punch
-- Ice Punch 
+- Ice Punch
 (Erratic)(///18,309)
-Electrode
-Ability: Soundproof  
+**Electrode**
+Ability: Soundproof
 Level: 100
-Modest Nature  
-IVs: 29 HP / 28 Def / 29 SpD / 27 Spe  
+Modest Nature
+IVs: 29 HP / 28 Def / 29 SpD / 27 Spe
 - Charge Beam
-- Electro Ball  
+- Electro Ball
 - Magnet Rise
 - Light Screen
 (Medium Fast)()
-Druddigon (F) @ Life Orb 
+**Druddigon** (F) @ Life Orb
 Ability: Sheer Force
 Level: 100
 Adamant Nature
@@ -2225,9 +2225,9 @@ IVs: 25 HP / 26 Atk / 29 Def / 27 SpA / 27 SpD / 25 Spe
 - Crunch
 - Dragon Claw
 - Fire Punch
-- Iron Head 
+- Iron Head
 (Medium Fast)()
-Glaceon (M)
+**Glaceon** (M)
 Ability: Snow Cloak
 Level: 100
 Modest Nature
@@ -2235,9 +2235,9 @@ IVs: 27 HP / 19 Atk / 29 Def / 28 SpD / 19 Spe
 - Icy Wind
 - Covet
 - Tail Whip
-- Helping Hand 
+- Helping Hand
 (Medium Fast)()
-Rotom
+**Rotom**
 Ability: Levitate
 Level: 100
 Timid Nature
@@ -2245,10 +2245,10 @@ IVs: 25 HP / 20 Atk / 28 Def / 23 SpA / 22 SpD / 29 Spe
 - Discharge
 - Dark Pulse
 - Shadow Ball
-- Charge Beam 
+- Charge Beam
 (Medium Fast)()
-Team 37:
-Accelgor (F)
+**Team 37:**
+**Accelgor** (F)
 Ability: Sticky Hold
 Level: 100
 Modest Nature
@@ -2256,16 +2256,16 @@ IVs: 28 HP / 25 Atk / 25 Def / 27 SpA / 18 SpD / 29 Spe
 - Bug Buzz
 - Giga Drain
 - Sludge Bomb
-- Recover 
+- Recover
 (Medium Fast)()
-Fletchling (M)
+**Fletchling** (M)
 Ability: Gale Wings
 Level: 1
 Gentle Nature
 - Tackle
 - Growl
 (Medium Slow)()
-Golbat (M)
+**Golbat** (M)
 Ability: Inner Focus
 Level: 100
 Adamant Nature
@@ -2273,28 +2273,28 @@ IVs: 21 HP / 6 Atk / 20 Def / 6 SpA / 29 SpD / 5 Spe
 - Haze
 - Venoshock
 - Air Slash
-- Quick Guard 
+- Quick Guard
 (Medium Fast)(///29,701)
-Swalot (F)
-Ability: Liquid Ooze  
+**Swalot** (F)
+Ability: Liquid Ooze
 Level: 100
-Adamant Nature  
-IVs: 24 Atk / 30 SpA / 25 Spe  
-- Wring Out  
-- Sludge Bomb  
-- Stockpile  
+Adamant Nature
+IVs: 24 Atk / 30 SpA / 25 Spe
+- Wring Out
+- Sludge Bomb
+- Stockpile
 - Swallow
 (Fluctuating)(///47,153)
-Nihilego
+**Nihilego**
 Ability: Beast Boost
 Level: 100
 Timid Nature
 - Power Gem
 - Thunderbolt
 - Sludge Wave
-- Dazzling Gleam 
+- Dazzling Gleam
 (Slow)()
-Lopunny (F)
+**Lopunny** (F)
 Ability: Klutz
 Level: 100
 Adamant Nature
@@ -2302,10 +2302,10 @@ IVs: 26 Atk / 27 Def / 21 SpA / 27 SpD
 - High Jump Kick
 - Return
 - Bounce
-- Healing Wish 
+- Healing Wish
 (Medium Fast)()
-Team 38:
-Cofagrigus (M) (ME)
+**Team 38:**
+**Cofagrigus** (M) (ME)
 Ability: Mummy
 Level: 100
 Modest Nature
@@ -2313,19 +2313,19 @@ IVs: 30 Spe
 - Will-O-Wisp
 - Mean Look
 - Shadow Ball
-- Grudge 
+- Grudge
 (Medium Fast)()
-Honchkrow (F) 
-Ability: Super Luck  
+**Honchkrow** (F)
+Ability: Super Luck
 Level: 100
-Naughty Nature  
-IVs: 28 Def / 19 SpD / 26 Spe  
-- Tailwind  
-- Night Slash  
-- Dark Pulse  
+Naughty Nature
+IVs: 28 Def / 19 SpD / 26 Spe
+- Tailwind
+- Night Slash
+- Dark Pulse
 - Wing Attack
 (Medium Slow)()
-Aromatisse (F)
+**Aromatisse** (F)
 Ability: Healer
 Level: 100
 Quiet Nature
@@ -2334,7 +2334,7 @@ Quiet Nature
 - Psychic
 - Disarming Voice
 (Medium Fast)()
-Staraptor (F)
+**Staraptor** (F)
 Ability: Reckless
 Level: 100
 Jolly Nature
@@ -2342,18 +2342,18 @@ IVs: 29 Def / 28 SpA / 28 SpD
 - Brave Bird
 - Close Combat
 - Agility
-- Take Down 
+- Take Down
 (Medium Slow)()
-Ferrothorn (M)
+**Ferrothorn** (M)
 Ability: Iron Barbs
 Level: 100
 Adamant Nature
 - Iron Head
 - Payback
-- Explosion 
+- Explosion
 - Power Whip
 (Medium Fast)(///29,701)
-Swoobat (F)
+**Swoobat** (F)
 Ability: Simple
 Level: 100
 Modest Nature
@@ -2361,10 +2361,10 @@ IVs: 29 Atk / 23 Def / 30 SpA / 25 SpD
 - Attract
 - Psychic
 - Calm Mind
-- Air Slash 
+- Air Slash
 (Medium Fast)()
-Team 39:
-Stantler (M) 
+**Team 39:**
+**Stantler** (M)
 Ability: Sap Sipper
 Level: 100
 Jolly Nature
@@ -2372,18 +2372,18 @@ IVs: 23 HP / 27 Def / 27 SpA / 23 SpD / 28 Spe
 - Zen Headbutt
 - Jump Kick
 - Confuse Ray
-- Return 
+- Return
 (Slow)()
-Caliburn & Escutcheon (Aegislash) (M)
+**Caliburn & Escutcheon** (Aegislash) (M)
 Ability: No Guard
 Level: 100
 Jolly Nature
 - Sacred Sword
 - Iron Head
 - Autotomize
-- Night Slash 
+- Night Slash
 (Medium Fast)()
-Magcargo (M)
+**Magcargo** (M)
 Ability: Flame Body
 Level: 100
 Modest Nature
@@ -2391,9 +2391,9 @@ IVs: 26 Atk / 24 Def / 24 SpA / 23 SpD / 28 Spe
 - Earth Power
 - Flamethrower
 - Recover
-- Body Slam 
+- Body Slam
 (Medium Fast)()
-Crabominable (F)
+**Crabominable** (F)
 Ability: Iron Fist
 Level: 100
 Naughty Nature
@@ -2401,9 +2401,9 @@ IVs: 21 HP / 20 Def / 27 SpA / 20 SpD / 22 Spe
 - Crabhammer
 - Ice Punch
 - Close Combat
-- Dizzy Punch 
+- Dizzy Punch
 (Medium Fast)()
-Pyukumuku (F) @ Light Clay
+**Pyukumuku** (F) @ Light Clay
 Ability: Innards Out
 Level: 100
 EVs: 252 HP / 128 Def / 128 SpD
@@ -2412,9 +2412,9 @@ IVs: 25 HP / 27 Def / 18 SpA / 23 SpD / 1 Spe
 - Recover
 - Toxic
 - Reflect
-- Light Screen 
+- Light Screen
 (Fast)()
-Pachirisu (F) 
+**Pachirisu** (F)
 Ability: Pickup
 Level: 100
 Calm Nature
@@ -2422,10 +2422,10 @@ IVs: 30 HP / 22 Atk / 30 Def / 30 SpA / 30 SpD / 24 Spe
 - Hyper Fang
 - Last Resort
 - Discharge
-- Super Fang 
+- Super Fang
 (Medium Fast)(///29,701)
-Team 40:
-Donphan (M)
+**Team 40:**
+**Donphan** (M)
 Ability: Pickup
 Level: 100
 Adamant Nature
@@ -2433,9 +2433,9 @@ IVs: 29 HP / 27 SpA / 24 Spe
 - Take Down
 - Charm
 - Last Resort
-- Double-Edge 
+- Double-Edge
 (Medium Fast)()
-Pharos (Pheromosa) (M)
+**Pharos** (Pheromosa) (M)
 Ability: Beast Boost
 Level: 100
 Adamant Nature
@@ -2443,9 +2443,9 @@ IVs: 12 Def / 25 SpA / 28 Spe
 - Bug Buzz
 - Speed Swap
 - High Jump Kick
-- Me First 
+- Me First
 (Slow)()
-Loudred (F)
+**Loudred** (F)
 Ability: Scrappy
 Level: 100
 Quiet Nature
@@ -2455,7 +2455,7 @@ IVs: 26 HP / 29 Def / 29 SpA / 22 SpD
 - Shadow Ball
 - Ice Beam
 (Medium Slow)()
-Walrein (F)
+**Walrein** (F)
 Ability: Ice Body
 Level: 100
 Modest Nature
@@ -2464,7 +2464,7 @@ Modest Nature
 - Hail
 - Snore
 (Medium Slow)()
-Dynas (Blaziken) (M) (ME)
+**Dynas** (Blaziken) (M) (ME)
 Ability: Drought
 Level: 150
 EVs: 252 Atk / 252 Spe
@@ -2473,32 +2473,32 @@ IVs: 22 Def
 - Blaze Kick
 - Earthquake
 - Night Slash
-- Crush Claw 
+- Crush Claw
 -
 (Medium Slow)(///32,757)
-Virizion  (ME)
-Ability: Justified  
+**Virizion** (ME)
+Ability: Justified
 Level: 100
 Shiny: Shiny
-EVs: 252 Atk / 252 Spe  
-Adamant Nature  
-- Quick Guard  
-- Leaf Blade 
-- Sacred Sword  
+EVs: 252 Atk / 252 Spe
+Adamant Nature
+- Quick Guard
+- Leaf Blade
+- Sacred Sword
 - Swords Dance
 (Slow)(///37,127)
-Team 41:
-Crawdaunt  (F)
-Ability: Adaptability  
+**Team 41:**
+**Crawdaunt (F)**
+Ability: Adaptability
 Level: 100
 Adamant Nature
-IVs: 20 HP / 25 Def / 24 SpA / 28 SpD / 28 Spe  
-- Guillotine  
-- Crabhammer  
-- Crunch  
+IVs: 20 HP / 25 Def / 24 SpA / 28 SpD / 28 Spe
+- Guillotine
+- Crabhammer
+- Crunch
 - Swords Dance
 (Fluctuating)(///47,153)
-Hinata (Lucario) (M)
+**Hinata (Lucario)** (M)
 Ability: Steadfast
 Level: 100
 Modest Nature
@@ -2508,7 +2508,7 @@ IVs: 30 HP / 28 Atk / 26 Def / 22 SpA / 26 SpD / 27 Spe
 - Bone Rush
 - Dragon Pulse
 (Medium Slow)()
-Servine (M)
+**Servine** (M)
 Ability: Contrary
 Level: 100
 Modest Nature
@@ -2516,9 +2516,9 @@ IVs: 30 HP / 25 Atk / 26 Def / 28 SpA / 28 SpD
 - Leaf Storm
 - Wring Out
 - Gastro Acid
-- Giga Drain 
+- Giga Drain
 (Medium Slow)()
-Amoonguss (F) 
+**Amoonguss** (F)
 Ability: Effect Spore
 Level: 100
 Modest Nature
@@ -2526,9 +2526,9 @@ IVs: 29 HP / 27 SpD / 24 Spe
 - Rage Powder
 - Spore
 - Sludge Bomb
-- Synthesis 
+- Synthesis
 (Medium Fast)()
-Swampert (F)
+**Swampert** (F)
 Ability: Damp
 Level: 100
 Jolly Nature
@@ -2536,9 +2536,9 @@ IVs: 23 SpA / 24 Spe
 - Hammer Arm
 - Earthquake
 - Waterfall
-- Protect 
+- Protect
 (Medium Slow)(///32,757)
-Dart (Zoroark) (M)
+**Dart** (Zoroark) (M)
 Ability: Illusion
 Level: 100
 Adamant Nature
@@ -2546,10 +2546,10 @@ IVs: 22 Def / 28 SpD
 - Night Slash
 - Agility
 - Nasty Plot
-- Punishment 
+- Punishment
 (Medium Slow)()
-Team 42:
-Scyther (F) (ME)
+**Team 42:**
+**Scyther** (F) (ME)
 Ability: Swarm
 Level: 100
 Adamant Nature
@@ -2557,9 +2557,9 @@ IVs: 22 HP / 25 SpA / 27 SpD / 29 Spe
 - Night Slash
 - X-Scissor
 - Wing Attack
-- Agility 
+- Agility
 (Medium Fast)()
-Primeape (M)
+**Primeape** (M)
 Ability: Anger Point
 Level: 100
 Adamant Nature
@@ -2567,9 +2567,9 @@ IVs: 28 HP / 29 Def / 27 SpA / 21 SpD / 27 Spe
 - Final Gambit
 - Stomping Tantrum
 - Outrage
-- Screech 
+- Screech
 (Medium Fast)(///29,701)
-Lilligant
+**Lilligant**
 Ability: Own Tempo
 Level: 100
 Modest Nature
@@ -2577,9 +2577,9 @@ IVs: 23 HP / 24 Atk / 22 Def / 26 SpA / 26 SpD / 22 Spe
 - Leaf Storm
 - After You
 - Sunny Day
-- Entrainment 
+- Entrainment
 (Medium Fast)()
-Dedenne (M)
+**Dedenne** (M)
 Ability: Cheek Pouch
 Level: 100
 Timid Nature
@@ -2587,9 +2587,9 @@ IVs: 26 Atk / 26 Def / 26 SpD
 - Discharge
 - Thunder
 - Play Rough
-- Entrainment 
+- Entrainment
 (Medium Fast)(///29,701)
-Florges-White (F)  
+**Florges-White** (F)
 Ability: Flower Veil
 Level: 100
 Modest Nature
@@ -2597,9 +2597,9 @@ IVs: 7 Atk
 - Solar Beam
 - Petal Dance
 - Moonblast
-- Misty Terrain 
+- Misty Terrain
 (Medium Fast)(///29,701)
-Camerupt (F)
+**Camerupt** (F)
 Ability: Anger Point
 Level: 100
 Modest Nature
@@ -2609,8 +2609,8 @@ IVs: 30 HP / 25 Atk / 26 Def / 29 SpA / 28 SpD / 21 Spe
 - Focus Energy
 - Eruption
 (Medium Fast)()
-Team 43:
-Mienshao (M)
+**Team 43**:
+**Mienshao** (M)
 Ability: Reckless
 Level: 100
 Jolly Nature
@@ -2620,16 +2620,16 @@ IVs: 30 HP / 27 Atk / 20 Def / 23 SpA / 24 SpD / 25 Spe
 - U-Turn
 - Bounce
 (Medium Slow)()
-Grotle (M)
+**Grotle** (M)
 Ability: Battle Armor
 Level: 100
 Brave Nature
 - Synthesis
 - Crunch
 - Leaf Storm
-- Giga Drain 
+- Giga Drain
 (Medium Slow)(///32,757)
-Boldore (M)
+**Boldore** (M)
 Ability: Sand Force
 Level: 100
 Adamant Nature
@@ -2639,7 +2639,7 @@ IVs: 23 SpA / 10 Spe
 - Stone Edge
 - Stealth Rock
 (Medium Slow)()
-Spiritomb (M)
+**Spiritomb** (M)
 Ability: Pressure
 Level: 100
 Quiet Nature
@@ -2649,7 +2649,7 @@ IVs: 30 SpD
 - Dark Pulse
 - Sucker Punch
 (Medium Fast)()
-Tsareena
+**Tsareena**
 Ability: Queenly Majesty
 Level: 100
 Adamant Nature
@@ -2657,20 +2657,20 @@ IVs: 28 Atk
 - Trop Kick
 - Flail
 - Teeter Dance
-- Magical Leaf 
+- Magical Leaf
 (Medium Slow)()
-Malachite (Tyranitar) (F) Anthro
+**Malachite** (Tyranitar) (F) [Anthro](https://e621.net/post/show/725461/2011-3-anthro-anthrofied-big_breasts-blush-breasts)
 Ability: Sand Stream
 Level: 100
 Adamant Nature
 IVs: 23 SpA / 30 SpD
 - Earthquake
 - Stone Edge
-- Thrash  
+- Thrash
 - Crunch
 (Slow)()
-Team 44:
-Furfrou (F)
+**Team 44**:
+**Furfrou** (F)
 Ability: Fur Coat
 Level: 100
 Adamant Nature
@@ -2678,9 +2678,9 @@ IVs: 29 HP / 24 Def / 26 SpA / 30 SpD
 - Cotton Guard
 - Sucker Punch
 - Charm
-- Take Down 
+- Take Down
 (Medium Fast)(///29,701)
-Masquerain (M)
+**Masquerain** (M)
 Ability: Sheer Force
 Level: 150
 EVs: 252 SpA / 252 Spe
@@ -2689,10 +2689,10 @@ IVs: 22 HP / 28 Atk / 30 Def / 28 SpA / 25 SpD / 27 Spe
 - Sticky Web
 - Baton Pass
 - Aqua Jet
-- Mist 
+- Mist
 -
 (Medium Fast)(///29,701)
-Gastrodon-East (F)
+**Gastrodon-East** (F)
 Ability: Sand Force
 Level: 100
 Adamant Nature
@@ -2700,21 +2700,21 @@ IVs: 26 HP / 22 Atk / 25 Def
 - Recover
 - Muddy Water
 - Body Slam
-- Rain Dance 
+- Rain Dance
 (Medium Fast)()
-Daisy (Golduck) (F) (ME) Anthro
-Ability: Lightning Rod  
+**Daisy** (Golduck) (F) (ME) [Anthro](https://e621.net/post/show/120625)
+Ability: Lightning Rod
 Level: 153
 EVs: 252 Atk / 252 SpA
-Naughty Nature  
-IVs: 28 HP / 30 Atk / 22 Def / 20 SpA / 24 SpD / 21 Spe  
-- Wonder Room  
-- Hydro Pump  
-- 
+Naughty Nature
+IVs: 28 HP / 30 Atk / 22 Def / 20 SpA / 24 SpD / 21 Spe
+- Wonder Room
+- Hydro Pump
+-
 - Psych Up
 -
 (Medium Fast)(///29,701)
-Dugtrio-Alola (F)
+**Dugtrio-Alola** (F)
 Ability: Sand Veil
 Level: 100
 Jolly Nature
@@ -2724,7 +2724,7 @@ IVs: 6 HP / 8 Atk / 7 Def / 2 SpA / 6 SpD / 5 Spe
 - Earthquake
 - Fissure
 (Medium Fast)()
-Cacturne (F)
+**Cacturne** (F)
 Ability: Sand Veil
 Level: 100
 Brave Nature
@@ -2732,10 +2732,10 @@ IVs: 23 Def / 13 Spe
 - Energy Ball
 - Spiky Shield
 - Sandstorm
-- Cotton Spore 
+- Cotton Spore
 (Medium Slow)(///32,757)
-Team 45:
-Togekiss (M)
+**Team 45:**
+**Togekiss** (M)
 Ability: Hustle
 Level: 100
 Modest Nature
@@ -2745,7 +2745,7 @@ IVs: 27 HP / 26 Atk / 30 SpA / 27 SpD / 29 Spe
 - Yawn
 - Sweet Kiss
 (Fast)()
-Pyroar (F) Anthro
+**Pyroar** (F) [Anthro](http://d.facdn.net/art/helixneo/1529444696/1529444696.helixneo_haley_shower.jpg)
 Ability: Adaptability
 Level: 151
 EVs: 252 SpA / 252 Spe
@@ -2757,7 +2757,7 @@ IVs: 21 HP / 29 Atk / 28 Def / 29 SpD / 30 Spe
 - Crunch
 -
 (Medium Slow)(///32,757)
-Banette (F)
+**Banette** (F)
 Ability: Insomnia
 Level: 100
 Adamant Nature
@@ -2767,17 +2767,17 @@ IVs: 19 SpA
 - Grudge
 - Snatch
 (Fast)()
-Gothitelle (F)
+**Gothitelle** (F)
 Ability: Frisk
 Level: 100
-Modest Nature  
-IVs: 23 HP / 25 Atk  / 2 Spe  
-- Psychic  
-- Charm  
-- Telekinesis  
+Modest Nature
+IVs: 23 HP / 25 Atk / 2 Spe
+- Psychic
+- Charm
+- Telekinesis
 - Psyshock
 (Medium Slow)()
-Arbok (M)
+**Arbok** (M)
 Ability: Intimidate
 Level: 100
 Adamant Nature
@@ -2786,7 +2786,7 @@ Adamant Nature
 - Stockpile
 - Crunch
 (Medium Fast)()
-Meowth (F) (ME)
+**Meowth** (F) (ME)
 Ability: Technician
 Level: 100
 Adamant Nature
@@ -2796,8 +2796,8 @@ IVs: 22 HP / 28 Atk / 30 Def / 28 SpA / 23 SpD / 26 Spe
 - Captivate
 - Night Slash
 (Medium Fast)()
-Team 46:
-Simipour (M)
+**Team 46:**
+**Simipour** (M)
 Ability: Gluttony
 Level: 100
 Brave Nature
@@ -2807,7 +2807,7 @@ IVs: 25 HP / 24 Atk / 27 Def / 30 SpD
 - Water Gun
 - Water Sport
 (Medium Fast)()
-Glalie (M)
+**Glalie** (M)
 Ability: Inner Focus
 Level: 100
 Quirky Nature
@@ -2817,7 +2817,7 @@ IVs: 28 HP / 28 SpA
 - Crunch
 - Freeze-Dry
 (Medium Fast)()
-Skarmory (F)
+**Skarmory** (F)
 Ability: Keen Eye
 Level: 100
 Timid Nature
@@ -2827,16 +2827,16 @@ IVs: 21 HP / 29 SpA / 21 SpD / 8 Spe
 - Metal Sound
 - Autotomize
 (Slow)()
-Crustle (M)
+**Crustle** (M)
 Ability: Battle Armor
 Level: 100
 Quiet Nature
 - Rock Wrecker
 - Flail
 - Shell Smash
-- X-Scissor 
+- X-Scissor
 (Medium Fast)(///29,701)
-Braviary
+**Braviary**
 Ability: Defiant
 Level: 100
 Adamant Nature
@@ -2844,9 +2844,9 @@ IVs: 16 SpA
 - Superpower
 - Hone Claws
 - Brave Bird
-- Thrash 
+- Thrash
 (Slow)(///37,127)
-Piloswine (M)
+**Piloswine** (M)
 Ability: Snow Cloak
 Level: 100
 Hasty Nature
@@ -2854,10 +2854,10 @@ IVs: 24 Atk / 30 Def / 29 SpD / 29 Spe
 - Amnesia
 - Blizzard
 - Earthquake
-- Thrash 
+- Thrash
 (Slow)()
-Team 47:
-Lurantis (M)
+**Team 47:**
+**Lurantis** (M)
 Ability: Contrary
 Level: 100
 Bold Nature
@@ -2867,7 +2867,7 @@ IVs: 26 HP / 21 Def / 20 SpA / 29 SpD / 23 Spe
 - Petal Blizzard
 - Brick Break
 (Medium Fast)()
-Brooklyn (Pangoro) (F) (ME) Anthro
+**Brooklyn** (Pangoro) (F) (ME) Anthro
 Ability: Scrappy
 Level: 110
 Adamant Nature
@@ -2877,7 +2877,7 @@ IVs: 20 SpA / 24 Spe
 - Body Slam
 - Crunch
 (Medium Fast)(///29,701)
-Vespiquen (F)
+**Vespiquen** (F)
 Ability: Pressure
 Level: 100
 Docile Nature
@@ -2887,7 +2887,7 @@ IVs: 22 HP / 28 Atk / 24 Def / 23 SpA / 30 SpD
 - Air Slash
 - Heal Order
 (Medium Slow)()
-Kangaskhan
+**Kangaskhan**
 Ability: Early Bird
 Level: 100
 Quiet Nature
@@ -2897,7 +2897,7 @@ IVs: 24 HP / 25 Atk / 28 Def / 20 SpA / 22 SpD / 27 Spe
 - Outrage
 - Endure
 (Medium Fast)(///29,701)
-Victreebel (F)
+**Victreebel** (F)
 Ability: Chlorophyll
 Level: 100
 Bashful Nature
@@ -2907,7 +2907,7 @@ IVs: 26 Def / 23 SpD
 - Sleep Powder
 - Poison Powder
 (Medium Fast)()
-Nidoking
+**Nidoking**
 Ability: Rivalry
 Level: 100
 Brave Nature
@@ -2917,8 +2917,8 @@ IVs: 23 HP / 28 Atk / 23 Def / 19 SpA / 25 SpD
 - Shadow Claw
 - Earthquake
 (Medium Slow)()
-Team 48:
-Sigilyph (F)
+**Team 48:**
+**Sigilyph** (F)
 Ability: Adaptability
 Level: 150
 EVs: 252 SpA / 252 Spe
@@ -2930,7 +2930,7 @@ IVs: 29 HP / 9 Atk / 30 Def / 22 SpD
 - Air Slash
 -
 (Medium Fast)(///29,701)
-Dreepy (F)
+**Dreepy** (F)
 Ability: Cursed Body
 Level: 14
 Impish Nature
@@ -2940,7 +2940,7 @@ IVs: 9 HP / 16 Atk / 21 Def / 5 SpA / 17 SpD / 21 Spe
 - Infestation
 - Quick Attack
 (Slow)()
-Milotic (M) 
+**Milotic** (M)
 Ability: Swift Swim
 Level: 100
 Bashful Nature
@@ -2950,7 +2950,7 @@ IVs: 27 HP / 28 Atk / 28 SpA / 29 SpD / 29 Spe
 - Safeguard
 - Recover
 (Erratic)()
-Claude (Lucario) (M) (ME) WORK ON
+**Claude** (Lucario) (M) (ME) **WORK ON**
 Ability: Steadfast
 Level: 100
 Bashful Nature
@@ -2958,18 +2958,18 @@ IVs: 4 HP / 15 Atk / 17 Def / 30 SpA / 30 SpD / 3 Spe
 - Me First
 - Dragon Pulse
 - Calm Mind
-- Aura Sphere 
+- Aura Sphere
 (Medium Slow)()
-Exploud (F)  
-Ability: Scrappy  
+**Exploud** (F)
+Ability: Scrappy
 Level: 100
-Modest Nature  
-- Hyper Voice  
+Modest Nature
+- Hyper Voice
 - Ice Beam
 - Rest
 - Sleep Talk
 (Medium Slow)(///32,757)
-Zweilous (F) (ME) @ Everstone
+**Zweilous** (F) (ME) @ Everstone
 Ability: Hustle
 Level: 100
 Lonely Nature
@@ -2977,10 +2977,10 @@ IVs: 23 HP / 23 Atk / 28 Def / 20 SpA / 21 SpD / 30 Spe
 - Work Up
 - Body Slam
 - Dragon Rush
-- Scary Face 
+- Scary Face
 (Slow)()
-Team 49:
-Houndoom (M)
+**Team 49:**
+**Houndoom** (M)
 Ability: Flash Fire
 Level: 100
 Mild Nature
@@ -2988,27 +2988,27 @@ IVs: 26 Def
 - Crunch
 - Inferno
 - Flamethrower
-- Nasty Plot 
+- Nasty Plot
 (Slow)(///37,127)
-Whiscash (F)
+**Whiscash** (F)
 Ability: Oblivious
 Level: 100
 - Aqua Tail
 - Earthquake
 - Future Sight
-- Muddy Water 
+- Muddy Water
 (Medium Fast)()
-Incineroar (F) Anthro
+**Incineroar** (F) [Anthro](https://e621.net/post/show/1402915/2017-anthro-anthrofied-black_fur-breasts-digital_m)
 Ability: Blaze
 Level: 100
 Brave Nature
 IVs: 27 HP / 26 Atk / 23 Def / 25 SpA / 22 Spe
 - Darkest Lariat
-- Outrage  
+- Outrage
 - Flare Blitz
 - Double Kick
 (Medium Slow)()
-Shiftry (M)
+**Shiftry** (M)
 Ability: Early Bird
 Level: 100
 Bashful Nature
@@ -3017,7 +3017,7 @@ Bashful Nature
 - Extrasensory
 - Hurricane
 (Medium Slow)()
-Scrafty (M)
+**Scrafty** (M)
 Ability: Moxie
 Level: 100
 Adamant Nature
@@ -3025,20 +3025,20 @@ IVs: 30 HP / 22 SpA
 - Facade
 - High Jump Kick
 - Rock Climb
-- Head Smash 
+- Head Smash
 (Medium Fast)()
-Ninjask (F)
+**Ninjask** (F)
 Ability: Infiltrator
 Level: 100
 Brave Nature
-IVs: 29 HP  / 25 Def / 26 SpA / 27 SpD
+IVs: 29 HP / 25 Def / 26 SpA / 27 SpD
 - Metal Claw
 - Double-Team
 - Fury Cutter
 - Dig
 (Erratic)()
-Team 50:
-Vanilluxe (F)
+**Team 50:**
+**Vanilluxe** (F)
 Ability: Snow Cloak
 Level: 100
 Rash Nature
@@ -3048,7 +3048,7 @@ IVs: 30 HP / 20 Atk / 30 Def / 23 SpA / 22 Spe
 - Blizzard
 - Mirror Coat
 (Slow)()
-Espeon (M) (ME)
+**Espeon** (M) (ME)
 Ability: Synchronize
 Level: 100
 Gentle Nature
@@ -3056,9 +3056,9 @@ IVs: 22 HP / 2 Atk / 21 Def / 27 SpA / 27 SpD
 - Stored Power
 - Shadow Ball
 - Calm Mind
-- Dazzling Gleam 
+- Dazzling Gleam
 (Medium Fast)()
-Malamar (F)
+**Malamar** (F)
 Ability: Contrary
 Level: 100
 Adamant Nature
@@ -3068,7 +3068,7 @@ IVs: 23 HP / 27 Atk / 26 Def / 26 SpA / 30 SpD / 21 Spe
 - Swagger
 - Psycho Cut
 (Medium Fast)()
-Beheeyem (M)
+**Beheeyem** (M)
 Ability: Sheer Force (HA)
 Level: 150
 EVs: 252 Def / 252 SpA
@@ -3080,7 +3080,7 @@ IVs: 30 HP / 18 Atk / 30 Def / 23 SpD / 21 Spe
 - Shadow Ball
 -
 (Medium Fast)(///29,701)
-Qwilomber (F)
+**Qwilomber** (F)
 Ability: Mine Deployment
 Level: 101
 Sassy Nature
@@ -3090,7 +3090,7 @@ IVs: 27 HP / 27 Atk / 27 Def / 18 SpA / 30 Spe
 - Hydro Pump
 - Fell Stinger
 (Medium Fast)(///29,701)
-Dewgong (F)
+**Dewgong** (F)
 Ability: Thick Fat
 Level: 100
 Docile Nature
@@ -3098,10 +3098,10 @@ IVs: 30 HP / 25 Atk / 26 Def / 22 SpA / 25 SpD / 27 Spe
 - Aqua Tail
 - Ice Beam
 - Safeguard
-- Hail 
+- Hail
 (Medium Fast)(///29,701)
-Team 51:
-Emolga (M)
+**Team 51:**
+**Emolga** (M)
 Ability: Static
 Level: 100
 Sassy Nature
@@ -3109,9 +3109,9 @@ IVs: 30 HP / 19 Atk / 22 Def / 20 SpD / 26 Spe
 - Encore
 - Volt Switch
 - Agility
-- Discharge 
+- Discharge
 (Medium Fast)(///29,701)
-Zangoose (M)
+**Zangoose** (M)
 Ability: Toxic Boost
 Level: 55
 Hasty Nature
@@ -3119,9 +3119,9 @@ IVs: 25 HP / 24 Atk / 30 SpA / 20 SpD / 27 Spe
 - Close Combat
 - Swords Dance
 - Taunt
-- X-Scissor 
+- X-Scissor
 (Erratic)()
-Gastrodon (M)
+**Gastrodon** (M)
 Ability: Storm Drain
 Level: 100
 Sassy Nature
@@ -3131,16 +3131,16 @@ IVs: 25 HP / 28 SpA / 26 SpD / 27 Spe
 - Body Slam
 - Scald
 (Medium Fast)()
-Castform (M)
+**Castform** (M)
 Ability: Forecast
 Level: 100
 IVs: 26 HP / 30 Atk / 29 Def / 29 SpA / 24 SpD
 - Fire Blast
 - Blizzard
 - Hydro Pump
-- Weather Ball 
+- Weather Ball
 (Medium Fast)()
-Azurite (Tyranitar) (M) (ME) Anthro
+**Azurite** (Tyranitar) (M) (ME) [Anthro](https://e621.net/post/show/1643399)
 Ability: Sand Stream
 Level: 100
 EVs: 4 Hp / 252 Def / 252 SpD
@@ -3151,7 +3151,7 @@ IVs: 27 SpA
 - Stone Edge
 - Angel Wings
 (Slow)(///37,127)
-Gallade
+**Gallade**
 Ability: Steadfast
 Level: 100
 Adamant Nature
@@ -3159,10 +3159,10 @@ IVs: 24 HP / 27 Def / 26 SpA / 26 SpD / 26 Spe
 - False Swipe
 - Protect
 - Close Combat
-- Stored Power 
+- Stored Power
 (Slow)()
-Team 52:
-Drapion (F)
+**Team 52:**
+**Drapion** (F)
 Ability: Sniper
 Level: 100
 Adamant Nature
@@ -3172,7 +3172,7 @@ IVs: 23 HP / 25 SpA / 28 SpD
 - Fell Stinger
 - Cross Poison
 (Slow)(///37,127)
-Goodra (F) Anthro
+**Goodra** (F) [Anthro](https://e621.net/post/show/397405/2013-3-anthro-anthrofied-avinz-border-breasts-deta)
 Ability: Hydration
 Level: 100
 Hasty Nature
@@ -3180,9 +3180,9 @@ IVs: 22 HP / 25 Def / 25 Spe
 - Aqua Tail
 - Body Slam
 - Muddy Water
-- Dragon Pulse 
+- Dragon Pulse
 (Slow)(///37,127)
-Sudowoodo (M)
+**Sudowoodo** (M)
 Ability: Rock Head
 Level: 100
 Impish Nature
@@ -3192,7 +3192,7 @@ IVs: 28 HP / 23 SpA / 23 SpD / 29 Spe
 - Feint Attack
 - Earthquake
 (Medium Fast)()
-Tauros
+**Tauros**
 Ability: Intimidate
 Level: 100
 Quirky Nature
@@ -3202,7 +3202,7 @@ IVs: 27 SpA / 29 Spe
 - Rock Slide
 - Earthquake
 (Slow)()
-Garchomp (F) (ME) Anthro
+**Garchomp** (F) (ME) [Anthro](https://e621.net/post/show/1168329/5_fingers-anthro-big_breasts-breasts-female-fin-fl)
 Ability: Sand Veil
 Level: 100
 Timid Nature
@@ -3210,9 +3210,9 @@ IVs: 26 HP / 30 SpA / 27 SpD
 - Dig
 - Crunch
 - Dragon Claw
-- Slash 
+- Slash
 (Slow)()
-Reuniclus (M)
+**Reuniclus** (M)
 Ability: Overcoat
 Level: 100
 Modest Nature
@@ -3220,10 +3220,10 @@ IVs: 30 HP / 26 Atk / 28 Def / 24 SpD / 30 Spe
 - Skill Swap
 - Pain Split
 - Psychic
-- Future Sight 
+- Future Sight
 (Medium Slow)()
-Team 53:
-Soren (Blacephalon)
+**Team 53:**
+**Soren** (Blacephalon)
 Ability: Magic Guard
 Level: 150
 EVs: 252 SpA / 252 Spe
@@ -3235,7 +3235,7 @@ IVs: 27 HP / 25 Atk / 28 Spe
 - Fire Blast
 - Dark Pulse
 (Slow)(///37127)
-Throh
+**Throh**
 Ability: Guts
 Level: 100
 Sassy Nature
@@ -3243,9 +3243,9 @@ IVs: 24 Def / 19 SpA / 26 SpD / 28 Spe
 - Bulk Up
 - Superpower
 - Storm Throw
-- Body Slam 
+- Body Slam
 (Medium Fast)()
-Lumineon (F)
+**Lumineon** (F)
 Ability: Storm Drain
 Level: 100
 Quiet Nature
@@ -3255,7 +3255,7 @@ IVs: 25 HP / 28 Atk / 29 Def / 27 SpA
 - Silver Wind
 - Scald
 (Erratic)()
-Carracosta (M)
+**Carracosta** (M)
 Ability: Solid Rock
 Level: 100
 Rash Nature
@@ -3263,9 +3263,9 @@ IVs: 28 HP / 21 Atk / 29 Def / 27 SpA / 29 Spe
 - Shell Smash
 - Aqua Tail
 - Rock Slide
-- Rain Dance 
+- Rain Dance
 (Medium Fast)()
-Corsola (F)
+**Corsola** (F)
 Ability: Hustle
 Level: 100
 Naughty Nature
@@ -3275,7 +3275,7 @@ IVs: 30 SpA
 - Mirror Coat
 - Rock Slide
 (Fast)()
-Durant (F)
+**Durant** (F)
 Ability: Swarm
 Level: 100
 Adamant Nature
@@ -3285,8 +3285,8 @@ IVs: 22 HP / 24 Atk / 22 Def / 28 SpA / 27 SpD / 27 Spe
 - X-Scissor
 - Iron Head
 (Medium Fast)()
-Team 54:
-Oricorio-Pa'u (F)
+**Team 54:**
+**Oricorio-Pa'u** (F)
 Ability: Dancer
 Level: 100
 Modest Nature
@@ -3294,18 +3294,18 @@ IVs: 18 HP / 29 Atk / 30 Def / 26 SpA / 18 SpD / 26 Spe
 - Captivate
 - Air Slash
 - Revelation Dance
-- Mirror Move 
+- Mirror Move
 (Medium Fast)()
-Excadrill (F) (ME)
+**Excadrill** (F) (ME)
 Ability: Mold Breaker
 Level: 100
 IVs: 27 Atk / 29 Def / 27 SpA / 26 SpD / 29 Spe
 - Swords Dance
 - Sandstorm
 - Drill Run
-- Fissure 
+- Fissure
 (Medium Fast)()
-Seadra (M)
+**Seadra** (M)
 Ability: Swift Swim
 Level: 100
 Timid Nature
@@ -3313,9 +3313,9 @@ IVs: 26 HP / 18 Atk / 27 Def / 22 SpA / 28 SpD / 23 Spe
 - Dragon Pulse
 - Scald
 - Ice Beam
-- Flash Cannon 
+- Flash Cannon
 (Medium Fast)()
-Poliwrath (M)
+**Poliwrath** (M)
 Ability: Damp
 Level: 100
 Docile Nature
@@ -3325,7 +3325,7 @@ IVs: 28 HP / 26 Atk / 26 Def / 21 SpA / 17 SpD / 20 Spe
 - Body Slam
 - Brick Break
 (Medium Slow)()
-Swirlix (M)
+**Swirlix** (M)
 Ability: Unburden
 Level: 100
 Naive Nature
@@ -3333,9 +3333,9 @@ IVs: 30 HP / 29 Def / 21 SpA / 29 SpD / 22 Spe
 - Cotton Guard
 - Wish
 - Play Rough
-- Light Screen 
+- Light Screen
 (Medium Fast)()
-Haxorus (M) (ME)
+**Haxorus** (M) (ME)
 Ability: Mold Breaker
 Level: 100
 Sassy Nature
@@ -3343,10 +3343,10 @@ IVs: 30 Atk / 30 Def / 29 SpA / 30 SpD / 25 Spe
 - Slash
 - Iron Tail
 - Dragon Tail
-- X-Scissor 
+- X-Scissor
 (Slow)()
-Team 55:
-Bibarel (F)
+**Team 55:**
+**Bibare**l (F)
 Ability: Simple
 Level: 100
 Sassy Nature
@@ -3354,9 +3354,9 @@ IVs: 21 HP / 20 SpA / 20 SpD / 28 Spe
 - Take Down
 - Super Fang
 - Swords Dance
-- Amnesia 
+- Amnesia
 (Medium Fast)()
-Mandibuzz
+**Mandibuzz**
 Ability: Overcoat
 Level: 100
 Lonely Nature
@@ -3366,7 +3366,7 @@ IVs: 24 HP / 27 Atk / 21 Def / 28 SpA / 23 SpD / 20 Spe
 - Brave Bird
 - U-Turn
 (Slow)()
-Torkoal (M)
+**Torkoal** (M)
 Ability: Drought
 Level: 100
 Bashful Nature
@@ -3374,9 +3374,9 @@ IVs: 29 Atk / 25 Def / 28 SpA / 22 SpD / 18 Spe
 - Flail
 - Heat Wave
 - Shell Smash
-- Inferno 
+- Inferno
 (Medium Fast)()
-Cleo (Arcanine) (F) (ME) Anthro
+**Cleo** (Arcanine) (F) (ME) [Anthro](https://e621.net/post/show/1495176/2018-anthro-arcanine-big_breasts-bikini-black_fur-)
 Ability: Flash Fire
 Level: 100
 Naughty Nature
@@ -3384,9 +3384,9 @@ IVs: 23 HP / 27 Atk / 21 Def / 26 SpA / 20 SpD / 30 Spe
 - Crunch
 - Heat Wave
 - Outrage
-- Flare Blitz 
+- Flare Blitz
 (Slow)()
-Rapidash (M) (ME)
+**Rapidash** (M) (ME)
 Ability: Run Away
 Level: 101
 Hardy Nature
@@ -3394,9 +3394,9 @@ IVs: 25 HP / 26 Def / 26 SpA / 30 SpD
 - Bounce
 - Flare Blitz
 - Agility
-- Fire Blast 
+- Fire Blast
 (Medium Fast)(///29,701)
-Comfey (F)
+**Comfey** (F)
 Ability: Triage
 Level: 100
 Lax Nature
@@ -3404,10 +3404,10 @@ IVs: 27 HP / 19 Atk / 29 Def / 25 SpA / 28 SpD
 - Aromatherapy
 - Dazzling Gleam
 - Energy Ball
-- Draining Kiss 
+- Draining Kiss
 (Fast)()
-Team 56:
-Hypno (F)
+**Team 56:**
+**Hypno** (F)
 Ability: Insomnia
 Level: 100
 Gentle Nature
@@ -3417,7 +3417,7 @@ IVs: 24 HP / 27 Def / 25 SpA / 25 SpD / 27 Spe
 - Meditate
 - Ice Punch
 (Medium Fast)()
-Porygon2 (Sponsoring Valey)
+**Porygon2** (Sponsoring Valey)
 Ability: Download
 Level: 152
 EVs: 252 HP / 252 SpA
@@ -3425,11 +3425,11 @@ Bold Nature
 - Lock-On
 - Tri Attack
 - Magic Coat
-- Zap Cannon 
+- Zap Cannon
 -
 - Sketch(unrelearnable)
 (Medium Fast)(///29,701)
-Pegasoltea (F)
+**Pegasoltea** (F)
 Ability: Flash Fire
 Level: 45
 Shiny: Shiny
@@ -3439,7 +3439,7 @@ IVs: 23 HP / 16 Atk / 15 Def / 27 SpA / 17 Spe
 - Agility
 - Fire Blast
 (Medium Fast)()
-Scolipede (F)
+**Scolipede** (F)
 Ability: Speed Boost
 Level: 100
 Adamant Nature
@@ -3447,9 +3447,9 @@ IVs: 8 HP / 1 Def / 29 SpA / 5 SpD
 - Steamroller
 - Poison Tail
 - Baton Pass
-- Toxic 
+- Toxic
 (Medium Fast)(///29,701)
-Garchomp (M)
+**Garchomp** (M)
 Ability: Rough Skin
 Level: 100
 Rash Nature
@@ -3459,7 +3459,7 @@ IVs: 26 HP / 15 SpA / 25 SpD / 19 Spe
 - Crunch
 - Earthquake
 (Slow)()
-Ellincia (Celesteela)
+**Ellincia** (Celesteela)
 Ability: Beast Boost
 Level: 100
 Brave Nature
@@ -3469,8 +3469,8 @@ IVs: 28 Atk / 27 Def / 12 SpD
 - Seed Bomb
 - Earthquake
 (Slow)()
-Team 57:
-Foretress (F)
+**Team 57:**
+**Foretress** (F)
 Ability: Sturdy
 Level: 100
 Timid Nature
@@ -3480,7 +3480,7 @@ IVs: 11 SpD / 23 Spe
 - Earthquake
 - Gyroball
 (Medium Fast)()
-Minccino (F)
+**Minccino** (F)
 Ability: Skill Link
 Level: 100
 Modest Nature
@@ -3488,9 +3488,9 @@ IVs: 14 HP / 30 Def / 1 SpA / 22 SpD / 6 Spe
 - Tail Slap
 - Baby-Doll Eyes
 - Helping Hand
-- Tickle 
+- Tickle
 (Fast)()
-Vaporeon (M) (ME)
+**Vaporeon** (M) (ME)
 Ability: Water Absorb
 Level: 100
 Impish Nature
@@ -3498,9 +3498,9 @@ IVs: 30 HP / 20 Atk / 20 Def / 22 SpA / 10 SpD / 1 Spe
 - Haze
 - Muddy Water
 - Last Resort
-- Hydro Pump 
+- Hydro Pump
 (Medium Fast)(///29,701)
-Salamence (F) Anthro
+**Salamence** (F) [Anthro](https://static.f-list.net/images/charimage/3213581.png)
 Ability: Speed Boost (HA)
 Level: 150
 EVs: 252 Atk / 252 Spe
@@ -3512,17 +3512,17 @@ IVs: 7 HP / 21 Def / 21 SpA / 25 SpD
 - Earthquake
 -
 (Slow)()
-Jellicent (F)  
-Ability: Cursed Body  
+**Jellicent** (F)
+Ability: Cursed Body
 Level: 100
-Naughty Nature  
-IVs: 25 HP / 12 Atk / 26 Def / 28 Spe  
-- Ominous Wind  
+Naughty Nature
+IVs: 25 HP / 12 Atk / 26 Def / 28 Spe
+- Ominous Wind
 - Water Spout
-- Rain Dance  
+- Rain Dance
 - Ice Beam
 (Medium Fast)()
-Wailord (M)
+**Wailord** (M)
 Ability: Oblivious
 Level: 100
 Quiet Nature
@@ -3532,8 +3532,8 @@ IVs: 25 Def
 - Ice Beam
 - Earthquake
 (Fluctuating)()
-Team 58:
-Chesnaught (F)
+**Team 58:**
+**Chesnaught** (F)
 Ability: Bulletproof
 Level: 100
 Adamant Nature
@@ -3543,7 +3543,7 @@ IVs: 24 HP / 30 Def / 25 SpA / 30 SpD / 21 Spe
 - Hammer Arm
 - Leech Seed
 (Medium Slow)(2276)
-Sandslash-Alola (M)
+**Sandslash-Alola** (M)
 Ability: Snow Cloak
 Level: 100
 Calm Nature
@@ -3551,9 +3551,9 @@ IVs: 1 HP / 13 Atk / 25 Def / 9 SpD / 28 Spe
 - Swords Dance
 - Icicle Crash
 - Iron Head
-- Leech Life 
+- Leech Life
 (Medium Fast)(///29,701)
-Slaking (M)
+**Slaking** (M)
 Ability: Vital Spirit
 Level: 100
 Naughty Nature
@@ -3561,9 +3561,9 @@ IVs: 21 HP / 12 Def / 12 SpA / 4 SpD
 - Chip Away
 - Counter
 - Focus Punch
-- Reversal 
+- Reversal
 (Slow)()
-Flareon (M)
+**Flareon** (M)
 Ability: Flash Fire
 Level: 100
 Brave Nature
@@ -3571,9 +3571,9 @@ IVs: 25 HP / 29 Atk / 27 Def / 26 SpA / 9 SpD / 16 Spe
 - Flare Blitz
 - Last Resort
 - Bite
-- Covet 
+- Covet
 (Medium Fast)()
-Azumarill (F)
+**Azumarill** (F)
 Ability: Huge Power
 Level: 100
 Brave Nature
@@ -3581,9 +3581,9 @@ IVs: 22 HP / 22 Def / 21 SpA / 29 SpD / 9 Spe
 - Play Rough
 - Aqua Ring
 - Waterfall
-- Double-Edge 
+- Double-Edge
 (Fast)()
-Medicham (F)
+**Medicham** (F)
 Ability: Pure Power
 Level: 100
 Adamant Nature
@@ -3592,8 +3592,8 @@ Adamant Nature
 - Recover
 - Rock Slide
 (Medium Fast)(///29,701)
-Team 59:
-Dragonite (M)
+**Team 59:**
+**Dragonite** (M)
 Ability: Marvel Scale
 Level: 100
 Naughty Nature
@@ -3601,9 +3601,9 @@ IVs: 5 HP / 21 SpA / 23 Spe
 - Aqua Jet
 - Outrage
 - Dragon Dance
-- Safeguard 
+- Safeguard
 (Slow)(///37,127)
-Silver (Silvally) (F)
+**Silver** (Silvally) (F)
 Ability: RKS System
 Level: 100
 Jolly Nature
@@ -3612,7 +3612,7 @@ Jolly Nature
 - X-Scissor
 - Multi-Attack
 (Slow)()
-Vikavolt (M)
+**Vikavolt** (M)
 Ability: Swarm
 Level: 100
 Gentle Nature
@@ -3620,9 +3620,9 @@ IVs: 2 Atk / 19 SpD / 15 Spe
 - Thunderbolt
 - Crunch
 - X-Scissor
-- Dig 
+- Dig
 (Medium Fast)()
-Granbull (F)
+**Granbull** (F)
 Ability: Intimidate
 Level: 100
 Mild Nature
@@ -3632,7 +3632,7 @@ IVs: 18 HP / 23 SpA / 20 Spe
 - Crunch
 - Play Rough
 (Fast)()
-Sligoo (M)
+**Sligoo** (M)
 Ability: Hydration
 Level: 100
 Bold Nature
@@ -3640,9 +3640,9 @@ IVs: 3 HP / 10 Spe
 - Rain Dance
 - Body Slam
 - Muddy Water
-- Dragon Pulse 
+- Dragon Pulse
 (Slow)(///37,127)
-Groudon (M) @ Red Orb
+**Groudon** (M) @ Red Orb
 Ability: Drought
 Level: 100
 Shiny: Shiny
@@ -3652,8 +3652,8 @@ EVs: 252 Atk / 252 SpA
 - Bulk Up
 - Eruption
 (Slow)()
-Team 60:
-Shaymin (ME)
+**Team 60:**
+**Shaymin** (ME)
 Ability: Natural Cure
 Level: 113
 Shiny: Shiny
@@ -3662,9 +3662,9 @@ Modest Nature
 - Air Slash
 - Energy Ball
 - Seed Flare
-- Synthesis 
+- Synthesis
 (Medium Slow)()
-Sally (Bruxish) (F)
+**Sally** (Bruxish) (F)
 Ability: Strong Jaw
 Level: 100
 Adamant Nature
@@ -3674,7 +3674,7 @@ IVs: 20 HP / 18 Def / 23 SpA / 18 SpD
 - Ice Fang
 - Psychic Fang
 (Medium Fast)()
-Beartic (M)
+**Beartic** (M)
 Ability: Snow Cloak
 Level: 100
 Adamant Nature
@@ -3684,7 +3684,7 @@ IVs: 17 HP / 12 Def / 15 SpA / 29 SpD / 18 Spe
 - Shadow Claw
 - Brick Break
 (Medium Fast)()
-Wormadam-Sandy (F)
+**Wormadam-Sandy** (F)
 Ability: Shed Skin
 Level: 100
 Quirky Nature
@@ -3692,9 +3692,9 @@ IVs: 23 HP / 23 Atk / 28 SpA / 1 SpD / 28 Spe
 - Protect
 - Quiver Dance
 - Bug Bite
-- Hidden Power [Water] 
+- Hidden Power [Water]
 (Medium Fast)()
-Pinsir (M)
+**Pinsir** (M)
 Ability: Mold Breaker
 Level: 100
 Jolly Nature
@@ -3704,7 +3704,7 @@ IVs: 9 HP / 23 Def / 27 SpD
 - Return
 - Earthquake
 (Slow)()
-Hariyama (M)
+**Hariyama** (M)
 Ability: Sheer Force
 Level: 100
 Naughty Nature
@@ -3714,8 +3714,8 @@ IVs: 23 HP / 29 Def / 16 SpA / 21 SpD / 13 Spe
 - Poison Jab
 - Rock Slide
 (Fluctuating)()
-Team 61:
-Milotic (F)
+**Team 61:**
+**Milotic** (F)
 Ability: Competitive
 Level: 100
 Jolly Nature
@@ -3725,7 +3725,7 @@ IVs: 28 Def
 - Rain Dance
 - Light Screen
 (Erratic)()
-Ursaring (F)
+**Ursaring** (F)
 Ability: Quick Feet
 Level: 100
 Rash Nature
@@ -3735,7 +3735,7 @@ IVs: 12 HP / 22 Atk / 10 Def / 1 SpA / 2 SpD / 24 Spe
 - Earthquake
 - Shadow Claw
 (Medium Fast)()
-Salazzle-Holy (ME)
+**Salazzle-Holy** (ME)
 Ability: Holy Toxin
 Level: 100
 Brave Nature
@@ -3743,9 +3743,9 @@ IVs: 20 HP / 25 Atk / 14 Def / 22 SpA / 15 SpD / 9 Spe
 - Nasty Plot
 - Dragon Pulse
 - Sludge Bomb
-- Flamethrower 
+- Flamethrower
 (Medium Fast)()
-Cordelia (Solgaleo) (F) Anthro
+**Cordelia** (Solgaleo) (F) [Anthro](https://cdn.discordapp.com/attachments/166197595344076801/376444383144443907/d4b60101683247fb59bb9cec53b1c531.jpg)
 Ability: Full Metal Body
 Level: 100
 Jolly Nature
@@ -3754,7 +3754,7 @@ Jolly Nature
 - Earthquake
 - Sunsteel Strike
 (Slow)(///37,127)
-Sobble (M)
+**Sobble** (M)
 Ability: Torrent
 Level: 44
 Bashful Nature
@@ -3764,7 +3764,7 @@ IVs: 1 HP / 13 Atk / 25 Def / 16 SpD
 - Soak
 - Rain Dance
 (Medium Slow)()
-Roserade (M)
+**Roserade** (M)
 Ability: Technician
 Level: 100
 Quirky Nature
@@ -3773,8 +3773,8 @@ Quirky Nature
 - Magical Leaf
 - Grass Whistle
 (Medium Slow)()
-Team 62:
-Mantyke (F)
+**Team 62:**
+**Mantyke** (F)
 Ability: Swift Swim
 Level: 100
 IVs: 12 HP / 30 Def / 17 Spe
@@ -3783,14 +3783,14 @@ IVs: 12 HP / 30 Def / 17 Spe
 - Ice Beam
 - Scald
 (Slow)()
-Smeargle (M) (ME)
+**Smeargle** (M) (ME)
 Ability: Moody
 Level: 1
 Quiet Nature
 IVs: 30 HP / 24 Atk / 21 Def / 27 SpA / 24 SpD / 25 Spe
 - Sketch
 (Fast)()
-Flygon (M) (ME)
+**Flygon** (M) (ME)
 Ability: Levitate
 Level: 100
 Lax Nature
@@ -3800,7 +3800,7 @@ IVs: 8 Def / 26 SpA / 5 SpD
 - Dragon Claw
 - Facade
 (Medium Slow)()
-Palossand (M)
+**Palossand** (M)
 Ability: Sand Veil
 Level: 100
 Hasty Nature
@@ -3810,7 +3810,7 @@ IVs: 11 HP / 26 Atk / 29 Def / 26 SpA / 25 SpD / 27 Spe
 - Earth Power
 - Shadow Ball
 (Medium Fast)()
-Seismitoad (F)
+**Seismitoad** (F)
 Ability: Poison Touch
 Level: 100
 Adamant Nature
@@ -3820,7 +3820,7 @@ IVs: 28 HP / 20 Atk / 2 Def / 25 SpA / 5 SpD / 30 Spe
 - Earthquake
 - Waterfall
 (Medium Slow)()
-Lediosso (M)
+**Lediosso** (M)
 Ability: Early Bird
 Level: 101
 IVs: 8 HP / 16 Atk / 23 Def / 22 SpA / 22 SpD / 27 Spe
@@ -3829,8 +3829,8 @@ IVs: 8 HP / 16 Atk / 23 Def / 22 SpA / 22 SpD / 27 Spe
 - Air Slash
 - Bug Buzz
 (Slow)()
-Team 63:
-Lickilicky (F)
+**Team 63:**
+**Lickilicky** (F)
 Ability: Oblivious
 Level: 100
 Bold Nature
@@ -3840,19 +3840,19 @@ IVs: 16 Atk / 17 Spe
 - Wring Out
 - Gyro Ball
 (Medium Fast)()
-Steelix-Mega (F)  (ME) Red Tungsten
-Ability: Thick Fat 
+**Steelix-Mega** (F) (ME) [Red](https://i.pinimg.com/originals/20/73/7d/20737dad9e715c2b669c55c43b5554d1.jpg) [Tungsten](https://i.pinimg.com/originals/20/73/7d/20737dad9e715c2b669c55c43b5554d1.jpg)
+Ability: Thick Fat
 Level: 100
-Shiny: Shiny  
+Shiny: Shiny
 EVs: 252 Def / 252 SpD
-Impish Nature  
-IVs: 18 HP / 21 SpA / 2 SpD / 0(22) Spe  
-- Sandstorm  
-- Sharpen  
-- Stone Edge  
+Impish Nature
+IVs: 18 HP / 21 SpA / 2 SpD / 0(22) Spe
+- Sandstorm
+- Sharpen
+- Stone Edge
 - Dig
 (Medium Fast)()
-Sableye (F)
+**Sableye** (F)
 Ability: Prankster
 Level: 100
 Serious Nature
@@ -3862,7 +3862,7 @@ IVs: 25 HP / 18 Def / 7 SpA / 26 SpD
 - Quash
 - Shadow Ball
 (Medium Slow)()
-Mallar’kee (F)
+**Mallar’kee** (F)
 Ability: Shatter Strike
 Level: 103
 Timid Nature
@@ -3872,7 +3872,7 @@ IVs: 28 HP / 23 Atk / 11 Def / 28 SpA / 13 SpD / 28 Spe
 - Sacred Sword
 - Poison Jab
 (Medium Fast)()
-Hippowdon (M)
+**Hippowdon** (M)
 Ability: Sand Stream
 Level: 100
 Lonely Nature
@@ -3882,7 +3882,7 @@ IVs: 30 HP / 15 Atk / 20 Def / 29 SpA / 16 SpD / 23 Spe
 - Crunch
 - Stone Edge
 (Slow)()
-Lunatone
+**Lunatone**
 Ability: Levitate
 Level: 100
 IVs: 24 HP / 11 Atk / 21 Def / 27 SpA / 9 SpD
@@ -3891,8 +3891,8 @@ IVs: 24 HP / 11 Atk / 21 Def / 27 SpA / 9 SpD
 - Charge Beam
 - Power Gem
 (Fast)()
-Team 64:
-Absol (F) Anthro
+**Team 64:**
+**Absol** (F) [Anthro](http://d.facdn.net/art/lumensage/1501299555/1501299555.lumensage_eifie3.png)
 Ability: Super Luck
 Level: 100
 Quiet Nature
@@ -3902,7 +3902,7 @@ IVs: 18 HP / 21 SpA
 - Quick Attack
 - Stone Edge
 (Medium Slow)()
-Clawitzer (M)
+**Clawitzer** (M)
 Ability: Mega Launcher
 Level: 100
 Mild Nature
@@ -3912,7 +3912,7 @@ IVs: 28 HP / 24 Atk / 14 Def / 24 SpA / 27 SpD / 19 Spe
 - Aqua Jet
 - Muddy Water
 (Slow)()
-Basclef (M)
+**Basclef** (M)
 Ability: Diva Shock
 Level: 101
 Jolly Nature
@@ -3922,7 +3922,7 @@ IVs: 4 HP / 15 Atk / 20 Def / 19 SpA / 26 SpD / 29 Spe
 - Heat Wave
 - Symphonic Discord
 (Medium Slow)()
-Diggersby (F)
+**Diggersby** (F)
 Ability: Huge Power
 Level: 100
 Adamant Nature
@@ -3932,7 +3932,7 @@ IVs: 28 HP / 26 Def / 15 SpA / 22 SpD / 9 Spe
 - Double Kick
 - Bounce
 (Medium Fast)()
-Gengar (F)
+**Gengar** (F)
 Ability: Levitate
 Level: 100
 Docile Nature
@@ -3942,7 +3942,7 @@ IVs: 8 HP / 29 Def / 20 SpA / 19 SpD / 7 Spe
 - Thunderbolt
 - Energy Ball
 (Medium Slow)()
-Snorlax (M)
+**Snorlax** (M)
 Ability: Thick Fat
 Level: 100
 IVs: 18 HP / 16 Atk / 26 Def / 20 SpA / 23 SpD / 16 Spe
@@ -3951,8 +3951,8 @@ IVs: 18 HP / 16 Atk / 26 Def / 20 SpA / 23 SpD / 16 Spe
 - Return
 - Wild Charge
 (Slow)()
-Team 65:
-Dragalge (F)
+**Team 65:**
+**Dragalge** (F)
 Ability: Adaptability
 Level: 100
 Naive Nature
@@ -3962,7 +3962,7 @@ IVs: 5 HP / 7 Atk / 13 Def / 10 Spe
 - Twister
 - Dragon Pulse
 (Medium Fast)()
-Dodrio (F)
+**Dodrio** (F)
 Ability: Early Bird
 Level: 100
 Mild Nature
@@ -3972,7 +3972,7 @@ IVs: 30 HP / 1 Atk / 26 Def / 21 SpA / 20 SpD / 12 Spe
 - Jump Kick
 - Endeavor
 (Medium Fast)()
-Talonflame (F)
+**Talonflame** (F)
 Ability: Flame Body
 Level: 100
 Bold Nature
@@ -3982,7 +3982,7 @@ IVs: 27 HP / 11 Def / 3 SpA / 27 SpD
 - Tailwind
 - Steel Wing
 (Medium Slow)()
-Nidoran-F
+**Nidoran-F**
 Ability: Hustle
 Level: 100
 Hasty Nature
@@ -3992,7 +3992,7 @@ IVs: 1 HP / 3 Def / 27 SpA / 9 SpD / 9 Spe
 - Poison Fang
 - Crunch
 (Medium Slow)()
-Araquanid (F)
+**Araquanid** (F)
 Ability: Water Bubble
 Level: 100
 Gentle Nature
@@ -4002,7 +4002,7 @@ IVs: 21 HP / 18 SpA / 18 Spe
 - Liquidation
 - Entrainment
 (Medium Fast)()
-Ursaring (M)
+**Ursaring** (M)
 Ability: Guts
 Level: 100
 Jolly Nature
@@ -4012,8 +4012,8 @@ IVs: 3 SpA / 15 Spe
 - Thrash
 - Rest
 (Medium Fast)()
-Team 66:
-Dragonite (F) Anthro
+**Team 66:**
+**Dragonite** (F) [Anthro](https://e621.net/post/show/1637396)
 Ability: Multiscale
 Level: 100
 Modest Nature
@@ -4023,7 +4023,7 @@ IVs: 9 Spe
 - Aqua Tail
 - Wing Attack
 (Slow)()
-Avalugg (F)
+**Avalugg** (F)
 Ability: Sturdy
 Level: 100
 Shiny: Shiny
@@ -4034,7 +4034,7 @@ IVs: 16 SpA / 24 SpD / 15 Spe
 - Recover
 - Body Slam
 (Medium Fast)()
-Haunter (F) @ Eviolite
+**Haunter** (F) @ Eviolite
 Ability: Levitate
 Level: 100
 Docile Nature
@@ -4044,7 +4044,7 @@ IVs: 26 HP / 29 Atk / 22 Def / 15 SpA / 29 SpD / 25 Spe
 - Hex
 - Double Team
 (Medium Slow)()
-Beartic (M)
+**Beartic** (M)
 Ability: Snow Cloak
 Level: 100
 Hasty Nature
@@ -4054,7 +4054,7 @@ IVs: 27 Def / 20 SpA / 8 SpD / 23 Spe
 - Shadow Claw
 - Aqua Jet
 (Medium Fast)()
-Komala (M)
+**Komala** (M)
 Ability: Comatose
 Level: 100
 Adamant Nature
@@ -4064,7 +4064,7 @@ IVs: 12 HP / 27 Atk / 28 Def / 30 SpA / 13 SpD / 14 Spe
 - Wood Hammer
 - Thrash
 (Slow)()
-Lapras (F)
+**Lapras** (F)
 Ability: Hydration
 Level: 100
 Lonely Nature
@@ -4074,8 +4074,8 @@ IVs: 8 HP / 18 Atk / 18 Def / 28 SpA / 24 SpD / 12 Spe
 - Scald
 - Psychic
 (Slow)()
-Team 67:
-Gogoat (F)
+**Team 67:**
+**Gogoat** (F)
 Ability: Sap Sipper
 Level: 100
 Careful Nature
@@ -4085,7 +4085,7 @@ IVs: 9 SpA / 14 SpD / 1 Spe
 - Earthquake
 - Bulk up
 (Medium Fast)()
-Klinklang
+**Klinklang**
 Ability: Plus
 Level: 100
 Shiny: Shiny
@@ -4095,7 +4095,7 @@ Adamant Nature
 - Wild Charge
 - Substitute
 (Medium Slow)()
-Mothim
+**Mothim**
 Ability: Swarm
 Level: 100
 Rash Nature
@@ -4105,7 +4105,7 @@ IVs: 25 HP / 27 Def / 28 SpD / 6 Spe
 - Lunge
 - Bug Buzz
 (Medium Fast)()
-Rotom-Mow
+**Rotom-Mow**
 Ability: Levitate
 Level: 100
 Bashful Nature
@@ -4115,7 +4115,7 @@ IVs: 30 HP / 26 Atk / 3 Def / 30 SpA / 21 SpD / 9 Spe
 - Discharge
 - Volt Switch
 (Medium Fast)()
-Carnivine (F)
+**Carnivine** (F)
 Ability: Levitate
 Level: 100
 Sassy Nature
@@ -4125,7 +4125,7 @@ IVs: 26 HP / 25 Def / 16 SpD / 9 Spe
 - Crunch
 - Power Whip
 (Slow)()
-Ribombee (M)
+**Ribombee** (M)
 Ability: Sweet Veil
 Level: 100
 Calm Nature
@@ -4135,8 +4135,8 @@ IVs: 10 HP / 17 Atk / 4 Def / 23 SpD
 - Dazzling Gleam
 - Quiver Dance
 (Medium Fast)()
-Team 68:
-Necrozma-Ultra @ Ultranecrozium Z (ME)
+**Team 68:**
+**Necrozma-Ultra** @ Ultranecrozium Z (ME)
 Ability: Neuroforce
 Level: 100
 EVs: 252 SpA / 252 Spe
@@ -4146,7 +4146,7 @@ Timid Nature
 - Iron Defense
 - Prismatic Laser
 (Slow)()
-Dedenne (M)
+**Dedenne** (M)
 Ability: Cheek Pouch
 Level: 100
 Shiny: Shiny
@@ -4156,7 +4156,7 @@ Modest Nature
 - Parabolic Charge
 - Charge
 (Medium Fast)()
-Zoroark (M)
+**Zoroark** (M)
 Ability: Illusion
 Level: 100
 Adamant Nature
@@ -4166,7 +4166,7 @@ IVs: 24 HP / 6 Def / 29 SpD
 - Foul Play
 - Taunt
 (Medium Slow)()
-Rotom-Frost
+**Rotom-Frost**
 Ability: Levitate
 Level: 100
 Gentle Nature
@@ -4176,7 +4176,7 @@ IVs: 25 HP / 30 Atk / 29 Def / 10 Spe
 - Will-O-Wisp
 - Volt Switch
 (Medium Fast)()
-Golduck (M)
+**Golduck** (M)
 Ability: Swift Swim
 Level: 40
 Rash Nature
@@ -4186,7 +4186,7 @@ IVs: 28 HP / 24 Atk / 25 Def / 28 SpA / 29 SpD / 26 Spe
 - Psychic
 - Ice Beam
 (Medium Fast)()
-Ninetales (F)
+**Ninetales** (F)
 Ability: Drought
 Level: 100
 Bold Nature
@@ -4196,8 +4196,8 @@ IVs: 18 HP / 28 Atk / 14 Def / 30 SpD
 - Extrasensory
 - Calm Mind
 (Medium Fast)()
-Team 69:
-Cass (Growlithe) (M) Anthro
+**Team 69:**
+**Cass** (Growlithe) (M) [Anthro](https://e621.net/post/show/1612307/accelo-anthro-arcanine-balls-erection-humanoid_pen)
 Ability: Intimidate
 Level: 1
 Jolly Nature
@@ -4205,7 +4205,7 @@ IVs: 28 HP / 27 Atk / 16 Def / 26 SpA / 29 SpD / 30 Spe
 - Bite
 - Roar
 (Slow)()
-Zoroark (F)
+**Zoroark** (F)
 Ability: Illusion
 Level: 100
 Jolly Nature
@@ -4215,7 +4215,7 @@ IVs: 26 HP / 25 Atk / 6 Def / 9 SpA / 12 SpD / 30 Spe
 - Low Kick
 - Throat Chop
 (Medium Slow()
-Starmie
+**Starmie**
 Ability: Illuminate
 Level: 100
 Gentle Nature
@@ -4225,7 +4225,7 @@ IVs: 15 Atk
 - Power Gem
 - Minimize
 (Slow)()
-Barbaracle (M)
+**Barbaracle** (M)
 Ability: Tough Claws
 Level: 100
 Docile Nature
@@ -4235,7 +4235,7 @@ IVs: 25 SpA / 2 Spe
 - Night Slash
 - Hone Claws
 (Medium Fast)()
-Vivillon-Archipelago (F)
+**Vivillon-Archipelago** (F)
 Ability: Friend Guard
 Level: 100
 Naive Nature
@@ -4245,7 +4245,7 @@ IVs: 6 Atk / 7 Def
 - Stun Spore
 - Bug Bite
 (Medium Fast)()
-Lanturn (F)
+**Lanturn** (F)
 Ability: Illuminate
 Level: 100
 IVs: 5 Atk / 22 Def
@@ -4254,8 +4254,8 @@ IVs: 5 Atk / 22 Def
 - Signal Beam
 - Confuse Ray
 (Slow)()
-Team 70:
-Bouffalant (F)
+**Team 70:**
+**Bouffalant** (F)
 Ability: Sap Sipper
 Level: 100
 IVs: 29 HP / 27 SpA
@@ -4264,7 +4264,7 @@ IVs: 29 HP / 27 SpA
 - Reversal
 - Focus Energy
 (Medium Fast)()
-Rotom-Wash
+**Rotom-Wash**
 Ability: Levitate
 Level: 100
 IVs: 22 HP / 14 Atk
@@ -4273,7 +4273,7 @@ IVs: 22 HP / 14 Atk
 - Substitute
 - Ominous Wind
 (Medium Fast)()
-Hypno (M)
+**Hypno** (M)
 Ability: Inner Focus
 Level: 100
 Lonely Nature
@@ -4283,17 +4283,17 @@ IVs: 11 Spe
 - Psychic
 - Swagger
 (Medium Fast)()
-Tangela (F)
-Ability: Chlorophyll  
+**Tangela** (F)
+Ability: Chlorophyll
 Level: 100
-Brave Nature  
-IVs: 11 Spe  
-- Ingrain  
-- Giga Drain  
-- Stun Spore  
+Brave Nature
+IVs: 11 Spe
+- Ingrain
+- Giga Drain
+- Stun Spore
 - Grassy Terrain
 (Medium Fast)()
-Phantump (M)
+**Phantump** (M)
 Ability: Harvest
 Level: 100
 Quirky Nature
@@ -4303,7 +4303,7 @@ IVs: 21 Def / 21 SpA / 30 SpD / 24 Spe
 - Leech Seed
 - Feint Attack
 (Medium Fast)()
-Cottonee (F)
+**Cottonee** (F)
 Ability: Prankster
 Level: 100
 Modest Nature
@@ -4313,8 +4313,8 @@ IVs: 20 Atk
 - Sunny Day
 - Solar Beam
 (Medium Fast)()
-Team 71:
-Chimecho (F)
+**Team 71:**
+**Chimecho** (F)
 Ability: Levitate
 IVs: 27 SpD
 - Psychic
@@ -4322,20 +4322,20 @@ IVs: 27 SpD
 - Shadow Ball
 - Dazzling Gleam
 (Fast)()
-Drowzee (F)
+**Drowzee** (F)
 Ability: Insomnia
 Level: 1
 - Hypnosis
 - Pound
 (Medium Fast)()
-Cinccino (F)
+**Cinccino** (F)
 Ability: Cute Charm
 Lonely Nature
 IVs: 25 Def / 29 SpA
 - Last Resort
 - Baby-Doll Eyes
 (Fast)()
-Diancie
+**Diancie**
 Ability: Regality
 Level: 150
 EVs: 252 Atk / 252 Def
@@ -4346,7 +4346,7 @@ IVs: 28 Def
 - Diamond Storm
 - Sandstorm
 (Slow)()
-Simisear (M)
+**Simisear** (M)
 Ability: Gluttony
 Sassy Nature
 - Focus Blast
@@ -4354,7 +4354,7 @@ Sassy Nature
 - Grass Knot
 - Acrobatics
 (Medium Fast)()
-Abomasnow (M)
+**Abomasnow** (M)
 Ability: Snow Warning
 Relaxed Nature
 IVs: 26 SpD
@@ -4363,8 +4363,8 @@ IVs: 26 SpD
 - Earthquake
 - Ice Shard
 (Slow)()
-Team 72:
-Barbaracle (F)
+**Team 72:**
+**Barbaracle** (F)
 Ability: Tough Claws
 Hasty Nature
 IVs: 26 Atk
@@ -4373,7 +4373,7 @@ IVs: 26 Atk
 - Stone Edge
 - Cross Chop
 (Medium Fast)()
-Rattata-Alola (F) LEVELUP
+**Rattata-Alola** (F) LEVELUP
 Ability: Hustle
 Level: 1
 Shiny: Shiny
@@ -4382,7 +4382,7 @@ IVs: 28 SpD
 - Tackle
 - Tail Whip
 (Medium Fast)()
-Eiscue (F)
+**Eiscue** (F)
 Ability: Ice Face
 Level: 5
 Calm Nature
@@ -4390,14 +4390,14 @@ IVs: 6 HP / 7 Atk / 11 Def / 7 SpA / 24 SpD / 28 Spe
 - Pound
 - Powder Snow
 (Slow)()
-Clamperl (M)
+**Clamperl** (M)
 Ability: Battle Armor
 - Shell Smash
 - Scald
 - Ice Beam
 - Hidden Power [Dark]
 (Erratic)()
-Wishiwashi (F)
+**Wishiwashi** (F)
 Ability: Schooling
 Shiny: Shiny
 IVs: 25 HP / 28 SpA
@@ -4406,7 +4406,7 @@ IVs: 25 HP / 28 SpA
 - Aqua Tail
 - Aqua Ring
 (Fast)()
-Gumshoos-Totem (M) (ME)
+**Gumshoos-Totem** (M) (ME)
 Ability: Adaptability
 Level: 1
 - Leer
@@ -4414,8 +4414,8 @@ Level: 1
 - Pursuit
 - Sand Attack
 (Medium Fast)()
-Team 73:
-Greninja (F) (ME) Form
+**Team 73:**
+**Greninja** (F) (ME) [Form](https://e621.net/post/show/591232)
 Ability: Battle Bond
 Level: 1
 Shiny: Shiny
@@ -4425,7 +4425,7 @@ Mild Nature
 - Haze
 - Growl
 (Medium Slow)()
-Gallade-Mega (ME)
+**Gallade-Mega** (ME)
 Ability: Inner Focus
 Level: 1
 Shiny: Shiny
@@ -4436,7 +4436,7 @@ IVs: 30 Atk / 17 Def / 22 SpA
 - Leer
 - Confusion
 (Slow)()
-Salazzle-Totem
+**Salazzle-Totem**
 Ability: Corrosion
 Level: 1
 Shiny: Shiny
@@ -4446,7 +4446,7 @@ Modest Nature
 - Torment
 - Ember
 (Medium Fast)()
-Floatzel (F)
+**Floatzel** (F)
 Ability: Swift Swim
 Hasty Nature
 IVs: 30 Atk / 30 Def
@@ -4455,13 +4455,13 @@ IVs: 30 Atk / 30 Def
 - Ice Beam
 - Attract
 (Medium Fast)()
-Cubone (F)
+**Cubone** (F)
 Ability: Rock Head
 Level: 1
 IVs: 30 Atk
 - Growl
 (Medium Fast)()
-Absol (M) Anthro
+**Absol** (M) Anthro
 Ability: Super Luck
 Level: 1
 Bold Nature
@@ -4471,8 +4471,8 @@ IVs: 28 SpD
 - Scratch
 - Leer
 (Medium Slow)()
-Team 74:
-Grimmsnarl
+**Team 74:**
+**Grimmsnarl**
 Ability: Frisk
 Level: 100
 Adamant Nature
@@ -4482,7 +4482,7 @@ IVs: 6 HP / 8 Def / 16 SpA / 26 SpD / 5 Spe
 - Play Rough
 - Foul Play
 (Medium Fast)()
-Klefki (F)
+**Klefki** (F)
 Ability: Prankster
 Level: 41
 Timid Nature
@@ -4492,7 +4492,7 @@ IVs: 22 HP / 13 Atk / 25 SpA / 21 Spe
 - Mirror Shot
 - Recycle
 (Fast)()
-Linoone-Konor (F)
+**Linoone-Konor** (F)
 Ability: Gluttony
 Level: 55
 Quirky Nature
@@ -4502,7 +4502,7 @@ IVs: 9 HP / 27 SpA / 10 SpD
 - Double-Edge
 - Rest
 (Medium Fast)()
-Coalossal (M)
+**Coalossal** (M)
 Ability: Flame Body
 Level: 100
 Naive Nature
@@ -4512,7 +4512,7 @@ IVs: 17 HP / 17 Atk / 6 Def / 2 SpA / 3 SpD / 15 Spe
 - Rock Blast
 - Burn Up
 (Medium Slow)()
-Hatenna
+**Hatenna**
 Ability: Anticipation
 Level: 29
 Quirky Nature
@@ -4522,18 +4522,18 @@ IVs: 7 HP / 5 Atk / 30 Def / 22 SpA / 27 SpD / 22 Spe
 - Heal Pulse
 - Psybeam
 (Slow)()
-Dodrio (F) (ME)
-Ability: Triple Threat  
-Level: 41  
-Careful Nature  
-IVs: 13 HP / 8 Atk / 23 Def / 2 SpA / 26 SpD / 20 Spe  
-- Swords Dance  
-- Acupressure  
-- Fury Attack  
+**Dodrio** (F) (ME)
+Ability: Triple Threat
+Level: 41
+Careful Nature
+IVs: 13 HP / 8 Atk / 23 Def / 2 SpA / 26 SpD / 20 Spe
+- Swords Dance
+- Acupressure
+- Fury Attack
 - Tri Attack
 (Medium Fast)()
-Team 75:
-Stufful (M)
+**Team 75:**
+**Stufful** (M)
 Ability: Fluffy
 Level: 28
 Impish Nature
@@ -4543,7 +4543,7 @@ IVs: 23 HP / 30 Atk / 26 Def / 25 SpA / 5 SpD / 8 Spe
 - Flail
 - Brutal Swing
 (Medium Fast)()
-Delibird (F)
+**Delibird** (F)
 Ability: Deep Freeze
 Level: 100
 Lonely Nature
@@ -4551,7 +4551,7 @@ IVs: 11 HP / 8 Atk / 30 Def / 25 SpD
 - Present
 - Drill Peck
 (Fast)()
-Illumise
+**Illumise**
 Ability: Prankster
 Level: 100
 Impish Nature
@@ -4561,7 +4561,7 @@ IVs: 27 HP / 16 Atk / 30 Def
 - Moonlight
 - Flatter
 (Erratic)()
-Jigglypuff (F)
+**Jigglypuff** (F)
 Ability: Friend Guard
 Level: 100
 Gentle Nature
@@ -4571,7 +4571,7 @@ IVs: 5 Atk / 19 Def / 21 Spe
 - Charm
 - Sweet Kiss
 (Fast)()
-Tentacool (M)
+**Tentacool** (M)
 Ability: Liquid Ooze
 Level: 35
 Lonely Nature
@@ -4581,7 +4581,7 @@ IVs: 28 HP / 10 Atk / 27 Def / 28 SpA
 - Barrier
 - Acid Spray
 (Slow)()
-Palpitoad (M)
+**Palpitoad** (M)
 Ability: Hydration
 Level: 42
 Shiny: Shiny
@@ -4592,8 +4592,8 @@ IVs: 3 Def / 29 SpA / 15 SpD / 23 Spe
 - Rain Dance
 - Flail
 (Medium Slow)()
-Team 76:
-Lampent (M)
+**Team 76:**
+**Lampent** (M)
 Ability: Flame Body
 Level: 55
 Shiny: Albino
@@ -4604,7 +4604,7 @@ IVs: 26 HP / 25 Atk / 26 Def / 14 Spe
 - Curse
 - Will-O-Wisp
 (Medium Slow)()
-Stunfisk (M)
+**Stunfisk** (M)
 Ability: Static
 Level: 1
 Careful Nature
@@ -4614,7 +4614,7 @@ IVs: 17 Atk / 12 Def / 29 SpD / 25 Spe
 - Mud-Slap
 - Mud Sport
 (Medium Fast)()
-Haxorus (F)
+**Haxorus** (F)
 Ability: Mold Breaker
 Level: 100
 Mild Nature
@@ -4624,7 +4624,7 @@ IVs: 11 HP / 28 SpA
 - Guillotine
 - Swords Dance
 (Slow)()
-Meowth-Alola (F)
+**Meowth-Alola** (F)
 Ability: Pickup
 Level: 14
 Impish Nature
@@ -4634,7 +4634,7 @@ IVs: 22 HP / 27 Atk / 22 Def
 - Bite
 - Growl
 (Medium Fast)()
-Grimer-Alola (F)
+**Grimer-Alola** (F)
 Ability: Poison Touch
 Level: 100
 Rash Nature
@@ -4643,7 +4643,7 @@ Rash Nature
 - Minimize
 - Screech
 (Medium Fast)()
-Furret (F)
+**Furret** (F)
 Ability: Keen Eye
 Level: 100
 Adamant Nature
@@ -4652,15 +4652,15 @@ Adamant Nature
 - Baton Pass
 - Agility
 (Medium Fast)()
-Team 77:
-Popplio (M)  
-Ability: Liquid Voice  
-Quirky Nature  
-IVs: 28 SpA  
-- Pound  
+**Team 77:**
+**Popplio** (M)
+Ability: Liquid Voice
+Quirky Nature
+IVs: 28 SpA
+- Pound
 - Water Gun
 (Slow)()
-Zorua (F)
+**Zorua** (F)
 Ability: Illusion
 Level: 1
 Shiny: Shiny
@@ -4669,7 +4669,7 @@ IVs: 27 HP / 29 Atk / 25 Def / 28 SpA / 27 Spe
 - Scratch
 - Leer
 (Medium Slow)()
-Paras (F)
+**Paras** (F)
 Ability: Effect Spore
 Level: 22
 Gentle Nature
@@ -4679,7 +4679,7 @@ IVs: 11 HP / 30 SpA / 30 SpD / 12 Spe
 - Absorb
 - Scratch
 (Medium Fast)()
-Falinks
+**Falinks**
 Ability: Battle Armor
 Level: 22
 Relaxed Nature
@@ -4689,7 +4689,7 @@ IVs: 14 HP / 8 SpA / 29 SpD / 14 Spe
 - Focus Energy
 - Bulk Up
 (Medium Fast)()
-Heatmor (F)
+**Heatmor** (F)
 Ability: Gluttony
 Level: 100
 Serious Nature
@@ -4699,7 +4699,7 @@ IVs: 28 Atk / 16 Def / 24 SpD / 8 Spe
 - Hone Claws
 - Fire Lash
 (Medium Fast)()
-Mareanie (M)
+**Mareanie** (M)
 Ability: Regenerator
 Level: 100
 Adamant Nature
@@ -4709,8 +4709,8 @@ IVs: 21 SpA / 12 Spe
 - Pin Missile
 - Recover
 (Medium Fast)()
-Team 78:
-Thievul (M)
+**Team 78:**
+**Thievul** (M)
 Ability: Unburden
 Level: 100
 Mild Nature
@@ -4720,7 +4720,7 @@ IVs: 20 HP / 23 Atk / 22 Def / 23 SpA / 5 SpD / 22 Spe
 - Tail Slap
 - Foul Play
 (Fast)()
-Skuntank (M)
+**Skuntank** (M)
 Ability: Stench
 Level: 56
 Shiny: Shiny
@@ -4731,7 +4731,7 @@ IVs: 7 HP / 22 Atk / 16 Def / 27 SpA / 18 SpD / 22 Spe
 - Sucker Punch
 - Night Slash
 (Medium Fast)()
-Kyogre (F) (ME) @ Blue Orb
+**Kyogre** (F) (ME) @ Blue Orb
 Ability: Drizzle
 Level: 45
 EVs: 252 SpA / 252 Spe
@@ -4741,7 +4741,7 @@ Timid Nature
 - Aqua Ring
 - Body Slam
 (Slow)()
-Stonjourner (F)
+**Stonjourner** (F)
 Ability: Power Spot
 Level: 100
 Bold Nature
@@ -4751,7 +4751,7 @@ IVs: 16 HP / 25 Atk / 12 Def / 9 SpA / 29 SpD / 1 Spe
 - Stone Edge
 - Mega Kick
 (Slow)()
-Centiskorch (F)
+**Centiskorch** (F)
 Ability: White Smoke
 Level: 100
 Hasty Nature
@@ -4761,7 +4761,7 @@ IVs: 27 HP / 15 Atk / 29 Def / 14 SpA / 4 SpD / 27 Spe
 - Fire Lash
 - Crunch
 (Medium Fast)()
-Rotom-Fan
+**Rotom-Fan**
 Ability: Levitate
 Level: 42
 Careful Nature
@@ -4771,14 +4771,14 @@ IVs: 6 HP / 28 Def / 4 SpA / 23 SpD / 29 Spe
 - Hex
 - Substitute
 (Medium Fast)()
-Team 79:
-Cosmog (F)
+**Team 79:**
+**Cosmog** (F)
 Ability: Unaware
 Level: 5
 IVs: 23 Atk / 24 Def / 23 SpA
 - Splash
 (Slow)()
-Herdier (M) (ME)
+**Herdier** (M) (ME)
 Ability: Intimidate
 Level: 52
 Jolly Nature
@@ -4788,31 +4788,31 @@ IVs: 20 Atk / 10 Def / 30 SpA / 27 SpD / 28 Spe
 - Giga Impact
 - Play Rough
 (Medium Slow)()
-Alcremie (Alcremie-Ruby-Swirl) (ME)
+**Alcremie (Alcremie-Ruby-Swirl)** (ME)
 Ability: Sweet Veil
 Level: 100
 Naughty Nature
-
+  
 IVs: 23 HP / 16 Atk / 25 Def
 - Dazzling Gleam
 - Recover
 - Misty Terrain
 - Decorate
 (Medium Fast)()
-Raikou (F)
+**Raikou** (F)
 Ability: Electric Surge (HA)
 Level: 150
 Shiny: Shiny
-Modest Nature  
+Modest Nature
 EVs: 252 SpA / 252 Spe
-IVs: 26 Atk / 6 Def / 29 Spe  
-- Extrasensory  
-- Rain Dance  
-- Calm Mind  
+IVs: 26 Atk / 6 Def / 29 Spe
+- Extrasensory
+- Rain Dance
+- Calm Mind
 - Thunder
 - Scald
 (Slow)()
-Silicobra (M)
+**Silicobra** (M)
 Ability: Shed Skin
 Level: 83
 Timid Nature
