@@ -1689,7 +1689,7 @@ IVs: 30 HP / 24 Atk / 25 Def / 22 SpA / 26 SpD / 20 Spe
 - Sucker Punch
 - Wing Attack
 (Medium Slow)(139)
-**Team 28**:
+**Team 28:**
 **Oranguru** (F)
 Ability: Telepathy
 Level: 100
@@ -1751,7 +1751,7 @@ IVs: 21 HP / 29 Atk / 30 Def / 25 SpA / 23 SpD / 20 Spe
 - Psychic
 - Stone Edge
 (Fast)()
-**Team 29**:
+**Team 29:**
 **Terra** (Rhydon) (F) [Anthro](https://e621.net/post/show/1066305/2016-2_toes-anthro-anthrofied-areola-beige_pussy-b)
 Ability: Dry Skin
 Level: 201
@@ -2190,7 +2190,7 @@ IVs: 24 HP / 20 Atk / 22 Def / 23 SpA / 28 Spe
 - Clanging Scales
 - Earthquake
 (Slow)()
-**Team 36**:
+**Team 36:**
 **Mr. Mime** (F)
 Ability: Technician
 Level: 100
@@ -2613,7 +2613,7 @@ IVs: 30 HP / 25 Atk / 26 Def / 29 SpA / 28 SpD / 21 Spe
 - Focus Energy
 - Eruption
 (Medium Fast)()
-**Team 43**:
+**Team 43:**
 **Mienshao** (M)
 Ability: Reckless
 Level: 100
@@ -2673,7 +2673,7 @@ IVs: 23 SpA / 30 SpD
 - Thrash
 - Crunch
 (Slow)()
-**Team 44**:
+**Team 44:**
 **Furfrou** (F)
 Ability: Fur Coat
 Level: 100
