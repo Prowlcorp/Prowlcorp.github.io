@@ -1,8 +1,8 @@
 **Rus on all**
 
-**IVS up to team __**
+**IVs up to team __**
 
-**Super Ivs up to team __**
+**Super IVs up to team __**
 
 **Nature up to team __**
 
@@ -16,6 +16,7 @@ Modest Nature
 - Solar Beam
 - Growth
 - Giga Drain
+- 
 (Medium Slow)()
 **Mismagius** (F) (ME)
 Ability: Levitate
@@ -69,6 +70,8 @@ Adamant Nature
 - Stun Spore
 - Dynamic Punch
 - Seed Bomb
+- 
+- 
 (Fluctuating)()
 **Shadow (Breloom)** (M) (ME)
 Ability: Poison Heal
@@ -275,7 +278,7 @@ IVs: 27 HP / 21 Atk / 28 Def / 30 SpA / 26 SpD / 27 Spe
 - Hydro Pump
 - Roost
 - Brine
-(Medium Fast)(0//29,701)
+(Medium Fast)()
 **Nathan** (Electivire) (M)
 Ability: Motor Drive
 Level: 100
@@ -460,6 +463,8 @@ IVs: 27 HP / 29 Atk / 26 Def / 20 SpA / 23 SpD / 29 Spe
 - Ice Fang
 - Aqua Tail
 - Superpower
+- 
+- 
 (Medium Slow)()
 **Alice** (Audino) (F) @ Audinite
 Ability: Healer
@@ -481,6 +486,8 @@ IVs: 26 HP / 26 Atk / 21 Def / 30 SpA / 23 SpD / 27 Spe
 - Synthesis
 - Petal Blizzard
 - Petal Dance
+- 
+- 
 (Medium Slow)()
 **Electrode**
 Ability: Soundproof
@@ -502,7 +509,7 @@ IVs: 26 HP / 30 Atk / 29 Def / 30 SpA / 25 SpD / 25 Spe
 - Psychic
 - Future Sight
 - Confuse Ray
-(Medium Fast)(0//29701)
+(Medium Fast)()
 **Team 9:**
 **Mei** (Stakataka) **WORK ON**
 Ability: Beast Boost
@@ -604,9 +611,9 @@ Bold Nature
 - Swagger
 - Fire Blast
 - Thunder Wave
--
--
--
+- 
+- 
+- 
 (Fast)()
 **Shuckle** (F) @ Leftovers
 Ability: Sturdy
@@ -669,6 +676,8 @@ Adamant Nature
 - Ice Punch
 - Poison Jab
 - Shadow Claw
+- 
+- 
 (Medium Slow)()
 **Artemis Jr.** (Armaldo) (M)
 Ability: Battle Armor
@@ -779,11 +788,11 @@ EVs: 252 SpA / 252 Spe
 Modest Nature
 IVs: 30 Atk / 30 Def
 - Focus Blast
--
 - Hidden Power[Ice]
--
--
--
+- 
+- 
+- 
+- 
 (Medium Slow)()
 **Xing** (Archeops) (F)
 Ability: Tough Claws
@@ -796,7 +805,7 @@ IVs: 28 HP / 27 Def / 20 SpD / 28 Spe
 - Rock Slide
 - Acrobatics
 -
-(Medium Fast)(0//29,701)
+(Medium Fast)()
 **Cradily** (M)
 Ability: Suction Cups
 Level: 100
@@ -818,7 +827,7 @@ IVs: 27 HP / 19 Atk / 23 Def / 25 SpA / 22 SpD / 25 Spe
 - Thunder Wave
 (Medium Fast)(166)
 **Team 14:**
-**Tyrantrum** **(M)** [**Anthro**](https://e621.net/posts/1135843?q=tyrantrum+penis+solo+anthro)
+**Tyrantrum** (M) [**Anthro**](https://e621.net/posts/1135843?q=tyrantrum+penis+solo+anthro)
 Ability: Strong Jaw
 Level: 100
 Lax Nature
@@ -1002,6 +1011,8 @@ IVs: 26 HP / 25 Def / 30 SpA / 20 SpD / 28 Spe
 - Head Smash
 - Flare Blitz
 - Arm Thrust
+- 
+- 
 (Medium Slow)(2440)
 **Team 17:**
 **Camerupt** (M)
@@ -1191,6 +1202,8 @@ IVs: 29 HP / 20 Atk / 27 SpA / 30 SpD / 29 Spe
 - Endeavor
 - Brave Bird
 - Reversal
+- 
+- 
 (Medium Slow)()
 **Team 20:**
 **Shedinja**
@@ -2128,7 +2141,7 @@ Adamant Nature
 - Aerial Ace
 - Facade
 - Shadow Ball
-(Medium Slow)(0//32,757)
+(Medium Slow)()
 **Team 35:**
 **Xurkitree**
 Ability: Beast Boost
@@ -2492,7 +2505,7 @@ Adamant Nature
 - Swords Dance
 (Slow)()
 **Team 41:**
-**Crawdaunt (F)**
+**Crawdaunt** (F)
 Ability: Adaptability
 Level: 100
 Adamant Nature
@@ -3350,7 +3363,7 @@ IVs: 30 Atk / 30 Def / 29 SpA / 30 SpD / 25 Spe
 - X-Scissor
 (Slow)()
 **Team 55:**
-**Bibare**l (F)
+**Bibarel** (F)
 Ability: Simple
 Level: 100
 Sassy Nature
@@ -4349,6 +4362,7 @@ IVs: 28 Def
 - Light Screen
 - Diamond Storm
 - Sandstorm
+- 
 (Slow)()
 **Simisear** (M)
 Ability: Gluttony
@@ -4796,7 +4810,6 @@ IVs: 20 Atk / 10 Def / 30 SpA / 27 SpD / 28 Spe
 Ability: Sweet Veil
 Level: 100
 Naughty Nature
-  
 IVs: 23 HP / 16 Atk / 25 Def
 - Dazzling Gleam
 - Recover
@@ -4807,8 +4820,8 @@ IVs: 23 HP / 16 Atk / 25 Def
 Ability: Electric Surge (HA)
 Level: 150
 Shiny: Shiny
-Modest Nature
 EVs: 252 SpA / 252 Spe
+Modest Nature
 IVs: 26 Atk / 6 Def / 29 Spe
 - Extrasensory
 - Rain Dance
